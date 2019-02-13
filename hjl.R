@@ -10,6 +10,7 @@
 # bash-4.2$ git config  credential.helper osxkeychain
 # bash-4.2$ git config remote.origin.url git@github.com:texchi2/hjl.git
 # bash-4.2$ chmod 400 /home/rstudio/.ssh/id_rsa
+# or tex@instance-4:~/R/hjl$ chmod 400 /home/tex/.ssh/id_rsa
 # }
 #
 #
