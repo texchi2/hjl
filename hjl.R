@@ -28,4 +28,4 @@ X20180827_1hr_IA_final_protein <- read_csv("20180827_1hr_IA_final_protein.csv")
 # protein.MatchedProductIntenSum = col_double(),
 # NONE of them => process from hcl.PDF summary, import table by Tabula
 # http://127.0.0.1:8080
-# 
+tabula_hcl_P1_P19_phospho <- read_csv("tabula-hcl_P1_P19_phospho.csv")

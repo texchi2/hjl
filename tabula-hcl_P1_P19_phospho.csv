@@ -1,5 +1,4 @@
-Accession,Peptides,Score,"Anova(p)*",Fold,Modification with Phosphoryl+STY,Description,Average Normalised Abundances,,
-,,,,,,,0hr,1hr,2hr
+Accession,Peptides,Score,"Anova(p)*",Fold,Modification with Phosphoryl+STY,Description,Average_0hr_Normalised_Abundances,Average_1hr_Normalised_Abundances,Average_2hr_Normalised_Abundances
 Q5T200,56 (35),286.55,---,1.05,1,"Zinc finger CCCH domain-containing protein 13 OS=Homo sapiensGN=ZC3H13 PE=1 SV=1",1.14E+05,1.19E+05,1.13E+05
 Q92817,25 (15),119.14,---,1.66,1,Envoplakin OS=Homo sapiens GN=EVPL PE=1 SV=3,1.83E+05,1.63E+05,2.71E+05
 A0A024R5M9,21 (16),98.44,---,1.09,1,"Nuclear mitotic apparatus protein 1_ isoform CRA_a OS=Homosapiens GN=NUMA1 PE=4 SV=1",1.19E+05,1.14E+05,1.24E+05
