@@ -1,0 +1,13 @@
+"","Accession","Peptides","Score","Anova(p)*","Fold","Modification with Phosphoryl+STY","Description","Average_0hr_Normalised_Abundances","Average_1hr_Normalised_Abundances","Average_2hr_Normalised_Abundances","fc_t1","fc_t2"
+"1","Q2M3C7","8 (7)",34.91,"---","2.32",1,"A-kinase anchor protein SPHKAP OS=Homo sapiens GN=SPHKAPPE=1 SV=1","1.55E+05","1.71E+05","3.59E+05",1.10322580645161,2.31612903225806
+"2","A0A0A0MT39","6 (5)",29.08,"---","2.24",1,"Sodium channel protein OS=Homo sapiens GN=SCN5A PE=3 SV=1","2.56E+04","2.58E+04","5.72E+04",1.0078125,2.234375
+"3","A8K8P1","8 (6)",33.19,"---","2.01",1,"cDNA FLJ78752_ highly similar to Homo sapiens centromereprotein J (CENPJ)_ mRNA OS=Homo sapiens PE=2 SV=1","3.47E+04","3.75E+04","6.97E+04",1.0806916426513,2.00864553314121
+"4","Q86V15","11 (8)",46.17,"---","1.81",1,"Zinc finger protein castor homolog 1 OS=Homo sapiens GN=CASZ1PE=1 SV=4","1.88E+05","2.92E+05","3.41E+05",1.5531914893617,1.81382978723404
+"5","B3KWW9","8 (6)",37.66,"---","1.72",1,"cDNA FLJ44046 fis_ clone TESTI4030505 OS=Homo sapiens PE=2SV=1","4.56E+04","4.76E+04","7.82E+04",1.04385964912281,1.71491228070175
+"6","A0A024R854","11 (9)",46.88,"---","1.48",1,"Caspase recruitment domain family_ member 11_ isoform CRA_aOS=Homo sapiens GN=CARD11 PE=4 SV=1","1.01E+05","1.23E+05","1.49E+05",1.21782178217822,1.47524752475248
+"7","A8K182","5 (4)",24.7,"---","1.47",1,"Sortilin-related VPS10 domain containing receptor 1_ isoformCRA_d OS=Homo sapiens GN=SORCS1 PE=2 SV=1","3.39E+04","3.57E+04","4.97E+04",1.05309734513274,1.46607669616519
+"8","A0A024R230","1 (1)",4.92,"---","1.59",1,"Tyrosine-protein kinase receptor OS=Homo sapiens GN=NTRK2PE=3 SV=1","1.80E+04","2.87E+04","2.57E+04",1.59444444444444,1.42777777777778
+"9","J3KQ21","6 (1)",27.85,"---","1.4",1,"Ankyrin repeat and MYND domain-containing protein 1 OS=Homosapiens GN=ANKMY1 PE=4 SV=1","1.07E+04","1.33E+04","1.51E+04",1.24299065420561,1.41121495327103
+"10","A0A024R9B9","8 (7)",38.95,"---","1.3",1,"Matrilin 2_ isoform CRA_b OS=Homo sapiens GN=MATN2 PE=4 SV=1","7.53E+04","7.99E+04","9.83E+04",1.06108897742364,1.30544488711819
+"11","B2RUT8","8 (4)",34.46,"---","1.24",1,"Benzodiazapine receptor (Peripheral) associated protein 1OS=Homo sapiens GN=BZRAP1 PE=2 SV=1","8.21E+04","8.52E+04","1.02E+05",1.03775883069428,1.24238733252132
+"12","Q9BX26","14 (9)",56.02,"---","1.22",1,"Synaptonemal complex protein 2 OS=Homo sapiens GN=SYCP2PE=2 SV=2","5.51E+04","5.54E+04","6.70E+04",1.005444646098,1.21597096188748
