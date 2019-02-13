@@ -1,0 +1,713 @@
+Accession,Peptides,Score,"Anova(p)*",Fold,Modification with Phosphoryl+STY,Description,Average Normalised Abundances,,
+,,,,,,,0hr,1hr,2hr
+Q5T200,56 (35),286.55,---,1.05,1,"Zinc finger CCCH domain-containing protein 13 OS=Homo sapiensGN=ZC3H13 PE=1 SV=1",1.14E+05,1.19E+05,1.13E+05
+Q92817,25 (15),119.14,---,1.66,1,Envoplakin OS=Homo sapiens GN=EVPL PE=1 SV=3,1.83E+05,1.63E+05,2.71E+05
+A0A024R5M9,21 (16),98.44,---,1.09,1,"Nuclear mitotic apparatus protein 1_ isoform CRA_a OS=Homosapiens GN=NUMA1 PE=4 SV=1",1.19E+05,1.14E+05,1.24E+05
+Q9P2D3,23 (18),94.69,---,1.19,1,"HEAT repeat-containing protein 5B OS=Homo sapiens GN=HEATR5BPE=1 SV=2",7.64E+04,7.55E+04,8.97E+04
+Q14966,19 (15),89.2,---,1.16,1,Zinc finger protein 638 OS=Homo sapiens GN=ZNF638 PE=1 SV=2,7.71E+04,8.92E+04,8.03E+04
+Q8N201,21 (15),81.23,---,1.67,1,"Integrator complex subunit 1 OS=Homo sapiens GN=INTS1 PE=1SV=2",5.85E+04,4.60E+04,7.67E+04
+Q9NVI1,16 (11),78.94,---,1.09,1,"Fanconi anemia group I protein OS=Homo sapiens GN=FANCI PE=1SV=4",1.24E+05,1.16E+05,1.26E+05
+Q96N67,18 (13),77.59,---,1.29,1,"Dedicator of cytokinesis protein 7 OS=Homo sapiens GN=DOCK7PE=1 SV=4",1.04E+05,8.96E+04,1.16E+05
+P53675,18 (13),74.57,---,1.08,1,Clathrin heavy chain 2 OS=Homo sapiens GN=CLTCL1 PE=1 SV=2,4.42E+04,4.09E+04,4.27E+04
+Q92824,15 (12),73.65,---,1.18,1,"Proprotein convertase subtilisin/kexin type 5 OS=Homo sapiensGN=PCSK5 PE=1 SV=4",8.46E+04,7.20E+04,7.48E+04
+B4DYG5,14 (9),70.74,---,1.04,1,"cDNA FLJ60960_ highly similar to Phosphatidylinositol 4-kinasealpha (EC 2.7.1.67) OS=Homo sapiens PE=2 SV=1",2.11E+04,2.04E+04,2.03E+04
+Q8TDY2,17 (10),69.81,---,1.07,1,"RB1-inducible coiled-coil protein 1 OS=Homo sapiens GN=RB1CC1PE=1 SV=3",9.44E+04,9.55E+04,8.94E+04
+O95996,17 (13),69.75,---,1.14,0,"Adenomatous polyposis coli protein 2 OS=Homo sapiens GN=APC2PE=1 SV=1",1.14E+05,1.11E+05,1.26E+05
+A0A0A0MTS5,15 (10),69.18,---,1.14,1,"HCG1811249_ isoform CRA_f OS=Homo sapiens GN=LAMA3 PE=1SV=1",6.85E+04,7.32E+04,7.79E+04
+O95425,15 (9),67.78,---,1.24,1,Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2,7.46E+04,8.12E+04,6.56E+04
+Q9H583,15 (12),65.88,---,1.04,1,"HEAT repeat-containing protein 1 OS=Homo sapiens GN=HEATR1PE=1 SV=3",1.01E+05,9.87E+04,1.03E+05
+Q86X10,13 (12),65.19,---,1.12,1,"Ral GTPase-activating protein subunit beta OS=Homo sapiensGN=RALGAPB PE=1 SV=1",5.05E+04,5.12E+04,5.63E+04
+A0A024RBR1,14 (8),65.11,---,1.19,1,"Restin (Reed-Steinberg cell-expressed intermediate filament-associated protein)_ isoform CRA_b OS=Homo sapiens GN=RSNPE=4 SV=1",1.70E+05,1.50E+05,1.79E+05
+Q9H6S0,15 (9),65.09,---,1.12,1,"Probable ATP-dependent RNA helicase YTHDC2 OS=Homo sapiensGN=YTHDC2 PE=1 SV=2",7.93E+04,8.23E+04,8.87E+04
+E9PHY8,15 (14),64.46,---,1.24,,"Maestro heat-like repeat-containing protein family member 1OS=Homo sapiens GN=MROH1 PE=1 SV=1",1.14E+05,9.99E+04,1.24E+05
+A0A0A0MQX1,14 (8),62.92,---,1.09,1,Unconventional myosin-X OS=Homo sapiens GN=MYO10 PE=1 SV=1,9.12E+04,9.42E+04,9.94E+04
+A2A3F7,13 (10),61.39,---,1.13,1,"Transient receptor potential cation channel subfamily M member 3OS=Homo sapiens GN=TRPM3 PE=1 SV=1",8.91E+04,8.57E+04,9.67E+04
+A0A140VJY5,12 (8),60.72,---,1.15,1,Testicular tissue protein Li 212 OS=Homo sapiens PE=2 SV=1,7.59E+04,7.82E+04,8.70E+04
+Q13796,16 (11),60.63,---,1.06,1,Protein Shroom2 OS=Homo sapiens GN=SHROOM2 PE=1 SV=1,7.23E+04,7.46E+04,7.65E+04
+L7RRS0,13 (11),60.02,---,1.58,1,"Phosphatidylinositol-4-phosphate 3-kinase_ catalytic subunit type2 alpha OS=Homo sapiens GN=PIK3C2A PE=3 SV=1",1.04E+05,1.04E+05,1.64E+05
+O15440,14 (9),59.8,---,1.06,1,"Multidrug resistance-associated protein 5 OS=Homo sapiensGN=ABCC5 PE=1 SV=2",1.02E+05,9.68E+04,1.02E+05
+O14607,13 (12),59.36,---,1.03,1,Histone demethylase UTY OS=Homo sapiens GN=UTY PE=1 SV=2,1.18E+05,1.14E+05,1.14E+05
+Q7Z6E9,13 (12),58.94,---,1.11,1,"E3 ubiquitin-protein ligase RBBP6 OS=Homo sapiens GN=RBBP6PE=1 SV=1",7.94E+04,7.91E+04,8.76E+04
+F5H1U9,11 (6),57.65,---,1.14,1,"Multiple PDZ domain protein OS=Homo sapiens GN=MPDZ PE=1SV=1",5.92E+04,5.54E+04,6.31E+04
+Q8IZY2,13 (9),57.61,---,1.03,1,"ATP-binding cassette sub-family A member 7 OS=Homo sapiensGN=ABCA7 PE=1 SV=3",8.55E+04,8.52E+04,8.28E+04
+E7EVA0,11 (8),56.75,---,1.11,1,"Microtubule-associated protein OS=Homo sapiens GN=MAP4 PE=1SV=1",1.40E+04,1.47E+04,1.33E+04
+A0A024R407,11 (8),56.72,---,1.1,1,"Microtubule-associated protein OS=Homo sapiens GN=MAP2 PE=4SV=1",6.36E+04,5.78E+04,6.35E+04
+O60303,13 (11),56.55,---,1.42,,Protein KIAA0556 OS=Homo sapiens GN=KIAA0556 PE=1 SV=4,1.01E+05,9.23E+04,1.31E+05
+Q14687,12 (11),56.2,---,2.01,,"Genetic suppressor element 1 OS=Homo sapiens GN=GSE1 PE=1SV=3",2.37E+05,3.35E+05,4.75E+05
+Q9BX26,14 (9),56.02,---,1.22,1,"Synaptonemal complex protein 2 OS=Homo sapiens GN=SYCP2PE=2 SV=2",5.51E+04,5.54E+04,6.70E+04
+B5MCJ9,12 (11),54.42,---,1.1,,"Tripartite motif-containing protein 66 OS=Homo sapiensGN=TRIM66 PE=4 SV=1",4.79E+04,5.04E+04,4.59E+04
+Q2KHR3,12 (9),53.76,---,1.26,1,"Glutamine and serine-rich protein 1 OS=Homo sapiens GN=QSER1PE=1 SV=3",6.02E+04,6.72E+04,5.34E+04
+B1APH0,11 (6),52.27,---,1.08,1,"Zinc finger protein basonuclin-2 OS=Homo sapiens GN=BNC2 PE=1SV=1",7.71E+04,7.31E+04,7.88E+04
+Q15047,11 (8),52.06,---,1.04,,"Histone-lysine N-methyltransferase SETDB1 OS=Homo sapiensGN=SETDB1 PE=1 SV=1",7.96E+04,7.65E+04,7.74E+04
+H7BYL6,12 (9),51.73,---,1.13,,"A-kinase anchor protein 9 (Fragment) OS=Homo sapiens GN=AKAP9PE=1 SV=1",1.41E+05,1.25E+05,1.41E+05
+O15027,11 (7),50.58,---,1.07,1,"Protein transport protein Sec16A OS=Homo sapiens GN=SEC16APE=1 SV=3",3.56E+04,3.79E+04,3.68E+04
+A0A024QZ72,12 (8),50.18,---,1.06,1,"PR domain containing 2_ with ZNF domain_ isoform CRA_bOS=Homo sapiens GN=PRDM2 PE=4 SV=1",3.83E+04,4.00E+04,4.07E+04
+Q5THK1,11 (8),49.98,---,1.07,,Protein PRR14L OS=Homo sapiens GN=PRR14L PE=1 SV=1,2.41E+04,2.24E+04,2.38E+04
+Q38SD2,10 (9),49.3,---,1.13,1,"Leucine-rich repeat serine/threonine-protein kinase 1 OS=Homosapiens GN=LRRK1 PE=1 SV=3",1.07E+05,9.68E+04,1.10E+05
+D3DSQ0,11 (9),49.13,---,1.04,,"Pericentriolar material 1_ isoform CRA_a OS=Homo sapiensGN=PCM1 PE=4 SV=1",2.96E+04,2.90E+04,2.84E+04
+A0A0A0MQS9,10 (8),48.25,---,1.57,,Laminin subunit alpha-4 OS=Homo sapiens GN=LAMA4 PE=1 SV=1,2.41E+05,2.59E+05,3.77E+05
+A8K8T9,11 (9),47.69,---,1.27,,"cDNA FLJ77187_ highly similar to Homo sapiens cyclin B3 (CCNB3)_transcript variant 3_ mRNA OS=Homo sapiens PE=2 SV=1",3.61E+05,4.02E+05,4.59E+05
+M0QZQ3,12 (7),47.69,---,1.19,,Spectrin beta chain OS=Homo sapiens GN=SPTBN4 PE=1 SV=1,1.02E+05,8.61E+04,8.65E+04
+Q6ZU65,10 (7),47.23,---,2.01,1,Ubinuclein-2 OS=Homo sapiens GN=UBN2 PE=1 SV=2,5.69E+04,4.98E+04,1.00E+05
+Q5T5P2,12 (8),47,---,1.05,1,"Sickle tail protein homolog OS=Homo sapiens GN=KIAA1217 PE=1SV=2",5.44E+04,5.30E+04,5.58E+04
+A0A024R854,11 (9),46.88,---,1.48,1,"Caspase recruitment domain family_ member 11_ isoform CRA_aOS=Homo sapiens GN=CARD11 PE=4 SV=1",1.01E+05,1.23E+05,1.49E+05
+Q3T906,9 (7),46.77,---,1.12,1,"N-acetylglucosamine-1-phosphotransferase subunits alpha/betaOS=Homo sapiens GN=GNPTAB PE=1 SV=1",5.49E+04,5.23E+04,5.87E+04
+A6QL64,11 (6),46.76,---,1.07,1,"Ankyrin repeat domain-containing protein 36A OS=Homo sapiensGN=ANKRD36 PE=2 SV=3",2.55E+04,2.72E+04,2.63E+04
+P54132,12 (6),46.53,---,1.3,1,Bloom syndrome protein OS=Homo sapiens GN=BLM PE=1 SV=1,2.71E+04,2.34E+04,3.04E+04
+Q02952,10 (7),46.44,---,1.19,,"A-kinase anchor protein 12 OS=Homo sapiens GN=AKAP12 PE=1SV=4",8.09E+04,7.27E+04,8.63E+04
+P06213,10 (7),46.43,---,1.33,1,Insulin receptor OS=Homo sapiens GN=INSR PE=1 SV=4,4.48E+04,5.22E+04,3.94E+04
+P13533,12 (9),46.26,---,1.13,1,Myosin-6 OS=Homo sapiens GN=MYH6 PE=1 SV=5,8.54E+04,9.67E+04,8.68E+04
+A0A024R250,9 (6),46.25,---,1.08,1,"Nucleolar protein 8_ isoform CRA_a OS=Homo sapiens GN=NOL8PE=4 SV=1",2.81E+04,2.77E+04,2.60E+04
+Q86V15,11 (8),46.17,---,1.81,1,"Zinc finger protein castor homolog 1 OS=Homo sapiens GN=CASZ1PE=1 SV=4",1.88E+05,2.92E+05,3.41E+05
+A0A0U1RR27,9 (6),46.16,---,1.21,,"C-myc promoter-binding protein OS=Homo sapiens GN=DENND4APE=1 SV=1",5.42E+04,4.47E+04,5.28E+04
+P98155,10 (9),45.59,---,2.47,1,"Very low-density lipoprotein receptor OS=Homo sapiens GN=VLDLRPE=1 SV=1",4.47E+04,2.13E+04,1.81E+04
+A0A0J9YW64,11 (6),45.34,---,1.15,1,"Dedicator of cytokinesis protein 11 (Fragment) OS=Homo sapiensGN=DOCK11 PE=1 SV=1",5.26E+04,6.07E+04,5.70E+04
+Q86XA9,10 (6),44.78,---,1.04,1,"HEAT repeat-containing protein 5A OS=Homo sapiens GN=HEATR5APE=1 SV=2",3.64E+05,3.80E+05,3.65E+05
+B7Z7S9,10 (7),44.48,---,1.09,,"cDNA FLJ61724_ highly similar to Shugoshin-like 2 OS=Homosapiens PE=2 SV=1",2.78E+04,3.02E+04,2.89E+04
+Q13459,11 (7),43.92,---,1.15,1,"Unconventional myosin-IXb OS=Homo sapiens GN=MYO9B PE=1SV=3",4.59E+04,4.44E+04,5.11E+04
+A0A1B0GTN0,10 (8),43.79,---,1.15,,"Voltage-dependent L-type calcium channel subunit alphaOS=Homo sapiens GN=CACNA1D PE=3 SV=1",9.76E+04,1.10E+05,9.56E+04
+A0A0S2Z5M1,10 (9),43.66,---,1.1,,"SEC63-like (S. cerevisiae) (Fragment) OS=Homo sapiens GN=SEC63PE=2 SV=1",6.58E+04,6.89E+04,7.23E+04
+A0A140VJW1,10 (6),43.16,---,1.06,1,Testicular tissue protein Li 188 OS=Homo sapiens PE=2 SV=1,1.03E+05,1.02E+05,1.09E+05
+Q9BWH6,9 (6),42.98,---,2.01,,"RNA polymerase II-associated protein 1 OS=Homo sapiensGN=RPAP1 PE=1 SV=3",6.80E+04,5.86E+04,1.17E+05
+Q96NW7,10 (8),42.8,---,1.19,1,"Leucine-rich repeat-containing protein 7 OS=Homo sapiensGN=LRRC7 PE=1 SV=1",1.13E+05,1.03E+05,1.23E+05
+B7ZM73,10 (7),42.78,---,1.08,1,MON2 protein OS=Homo sapiens GN=MON2 PE=2 SV=1,1.01E+05,9.49E+04,1.03E+05
+D3DVC4,9 (9),42.76,---,1.17,,Nestin_ isoform CRA_c OS=Homo sapiens GN=NES PE=3 SV=1,8.78E+04,7.53E+04,8.60E+04
+Q6XZF7,10 (7),42.17,---,1.08,1,Dynamin-binding protein OS=Homo sapiens GN=DNMBP PE=1 SV=1,3.77E+04,3.56E+04,3.48E+04
+F8VPD4,9 (5),42.17,---,1.06,,CAD protein OS=Homo sapiens GN=CAD PE=1 SV=1,4.10E+04,3.85E+04,3.93E+04
+A4D0S8,9 (6),41.61,---,1.18,1,Dedicator of cytokinesis 4 OS=Homo sapiens GN=DOCK4 PE=3 SV=1,1.10E+05,9.86E+04,1.16E+05
+Q9P227,8 (7),41.49,---,1.08,,"Rho GTPase-activating protein 23 OS=Homo sapiens GN=ARHGAP23PE=1 SV=2",1.47E+05,1.36E+05,1.47E+05
+Q5VU65,10 (6),41.37,---,1.05,,"Nuclear pore membrane glycoprotein 210-like OS=Homo sapiensGN=NUP210L PE=2 SV=1",1.89E+04,1.90E+04,1.98E+04
+A0A1L1ZH79,7 (5),41.04,---,1.15,,"NADH dehydrogenase subunit 5 OS=Homo sapiens GN=ND5 PE=4SV=1",4.79E+04,5.53E+04,4.95E+04
+E7EQN9,8 (7),40.65,---,1.08,,"Type II inositol 3_4-bisphosphate 4-phosphatase OS=Homo sapiensGN=INPP4B PE=1 SV=1",6.54E+04,6.42E+04,6.06E+04
+P49750,9 (5),39.87,---,1.75,1,"YLP motif-containing protein 1 OS=Homo sapiens GN=YLPM1 PE=1SV=3",4.37E+04,4.12E+04,7.21E+04
+Q8IVG5,9 (7),39.76,---,1.15,1,"Sterile alpha motif domain-containing protein 9-like OS=Homosapiens GN=SAMD9L PE=1 SV=2",3.88E+04,3.62E+04,4.16E+04
+C9J066,10 (8),39.68,---,1.12,,Ninein OS=Homo sapiens GN=NIN PE=1 SV=1,2.01E+05,1.92E+05,2.16E+05
+B4DHI4,9 (6),39.64,---,1.02,1,"cDNA FLJ60536_ highly similar to Death-associated protein kinase1 (EC 2.7.11.1) OS=Homo sapiens PE=2 SV=1",3.11E+04,3.18E+04,3.13E+04
+P56715,9 (5),39.61,---,1.08,1,Oxygen-regulated protein 1 OS=Homo sapiens GN=RP1 PE=1 SV=1,7.67E+04,8.08E+04,8.31E+04
+Q460N5,9 (6),39.14,---,1.14,,"Poly [ADP-ribose] polymerase 14 OS=Homo sapiens GN=PARP14PE=1 SV=3",8.93E+04,1.00E+05,1.02E+05
+Q9C091,9 (6),39,---,1.19,1,GREB1-like protein OS=Homo sapiens GN=GREB1L PE=2 SV=2,8.69E+04,9.94E+04,8.36E+04
+A0A024R9B9,8 (7),38.95,---,1.3,1,Matrilin 2_ isoform CRA_b OS=Homo sapiens GN=MATN2 PE=4 SV=1,7.53E+04,7.99E+04,9.83E+04
+Q9Y6N6,9 (7),38.88,---,1.22,,Laminin subunit gamma-3 OS=Homo sapiens GN=LAMC3 PE=1 SV=3,4.47E+04,4.58E+04,3.76E+04
+Q9BXL6,9 (8),38.66,---,1.2,1,"Caspase recruitment domain-containing protein 14 OS=Homosapiens GN=CARD14 PE=1 SV=2",7.15E+04,7.70E+04,6.43E+04
+O60645,10 (8),38.35,---,1.08,1,"Exocyst complex component 3 OS=Homo sapiens GN=EXOC3 PE=1SV=2",7.01E+04,6.48E+04,6.80E+04
+A0A075B785,9 (5),38.21,---,1.17,,"LisH domain and HEAT repeat-containing protein KIAA1468OS=Homo sapiens GN=KIAA1468 PE=1 SV=7",4.72E+04,5.42E+04,5.54E+04
+P10266,9 (2),38.14,---,1.19,1,"Endogenous retrovirus group K member 10 Pol protein OS=Homosapiens GN=ERVK-10 PE=3 SV=2",2.69E+05,2.27E+05,2.45E+05
+F2Z2S2,9 (7),38.03,---,1.39,,Protein furry homolog-like OS=Homo sapiens GN=FRYL PE=1 SV=1,1.22E+05,1.35E+05,1.69E+05
+Q6ZV73,9 (8),37.74,---,1.07,1,"FYVE_ RhoGEF and PH domain-containing protein 6 OS=Homosapiens GN=FGD6 PE=1 SV=2",5.35E+04,5.72E+04,5.45E+04
+B3KWW9,8 (6),37.66,---,1.72,1,"cDNA FLJ44046 fis_ clone TESTI4030505 OS=Homo sapiens PE=2SV=1",4.56E+04,4.76E+04,7.82E+04
+Q8N3P4,9 (5),37.56,---,1.07,1,"Vacuolar protein sorting-associated protein 8 homolog OS=Homosapiens GN=VPS8 PE=1 SV=3",1.09E+05,1.04E+05,1.12E+05
+Q9H2M9,8 (4),37.49,---,1.18,,"Rab3 GTPase-activating protein non-catalytic subunit OS=Homosapiens GN=RAB3GAP2 PE=1 SV=1",1.25E+04,1.06E+04,1.10E+04
+Q9WJR5,9 (1),37.47,---,1.21,1,"Endogenous retrovirus group K member 19 Pol protein OS=Homosapiens GN=ERVK-19 PE=2 SV=2",1.18E+04,9.84E+03,9.75E+03
+Q86WG5,8 (7),37.29,---,1.07,,"Myotubularin-related protein 13 OS=Homo sapiens GN=SBF2 PE=1SV=1",3.13E+04,2.96E+04,3.16E+04
+A0A087WT58,8 (7),37.25,---,1.26,,"Maestro heat-like repeat-containing protein family member 2AOS=Homo sapiens GN=MROH2A PE=4 SV=1",2.31E+04,2.58E+04,2.91E+04
+P18858,8 (6),37.16,---,1.09,1,DNA ligase 1 OS=Homo sapiens GN=LIG1 PE=1 SV=1,5.55E+04,6.03E+04,5.89E+04
+B1AJZ9,8 (7),37.16,---,1.11,,"Forkhead-associated domain-containing protein 1 OS=Homosapiens GN=FHAD1 PE=2 SV=2",1.47E+05,1.36E+05,1.51E+05
+Q86US8,11 (8),37.14,---,1.45,1,"Telomerase-binding protein EST1A OS=Homo sapiens GN=SMG6PE=1 SV=2",5.84E+04,5.53E+04,8.04E+04
+A0A087WVQ6,7 (6),36.97,---,1.06,,Clathrin heavy chain OS=Homo sapiens GN=CLTC PE=1 SV=1,1.67E+05,1.61E+05,1.57E+05
+Q13233,8 (7),36.96,---,1.05,1,"Mitogen-activated protein kinase kinase kinase 1 OS=Homo sapiensGN=MAP3K1 PE=1 SV=4",7.39E+04,7.25E+04,7.61E+04
+Q14674,9 (7),36.8,---,1.12,1,Separin OS=Homo sapiens GN=ESPL1 PE=1 SV=3,3.90E+04,4.09E+04,4.36E+04
+P16157,8 (5),36.64,---,1.2,1,Ankyrin-1 OS=Homo sapiens GN=ANK1 PE=1 SV=3,3.79E+04,4.53E+04,4.22E+04
+O15031,8 (6),36.63,---,1.03,1,Plexin-B2 OS=Homo sapiens GN=PLXNB2 PE=1 SV=3,7.89E+04,7.75E+04,7.68E+04
+P07814,7 (6),36.23,---,1.04,,"Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiensGN=EPRS PE=1 SV=5",1.06E+05,1.03E+05,1.06E+05
+A0A0A0MRJ3,8 (6),36.18,---,1.12,1,Neuron navigator 1 OS=Homo sapiens GN=NAV1 PE=1 SV=1,9.18E+03,9.44E+03,8.42E+03
+H0YA77,8 (5),35.69,---,1.29,1,"Protein JBTS17 (Fragment) OS=Homo sapiens GN=C5orf42 PE=1SV=1",5.93E+04,5.23E+04,6.73E+04
+Q5T5U3,8 (5),35.67,---,1.12,,"Rho GTPase-activating protein 21 OS=Homo sapiens GN=ARHGAP21PE=1 SV=1",4.81E+04,4.31E+04,4.52E+04
+B9EG73,9 (6),35.66,---,1.14,1,DOCK9 protein OS=Homo sapiens GN=DOCK9 PE=2 SV=1,3.69E+04,3.75E+04,4.22E+04
+O75122,8 (6),35.63,---,1.25,,CLIP-associating protein 2 OS=Homo sapiens GN=CLASP2 PE=1 SV=2,6.49E+04,7.43E+04,8.08E+04
+Q14BD4,7 (4),35.62,---,1.46,,ITSN1 protein OS=Homo sapiens GN=ITSN1 PE=2 SV=1,2.87E+05,3.50E+05,4.20E+05
+O60522,8 (5),35.39,---,1.19,,"Tudor domain-containing protein 6 OS=Homo sapiens GN=TDRD6PE=2 SV=2",1.84E+04,2.07E+04,1.74E+04
+D3DSS6,8 (7),35.22,---,1.1,,"Dedicator of cytokinesis 5_ isoform CRA_a OS=Homo sapiensGN=DOCK5 PE=3 SV=1",7.55E+04,6.97E+04,7.66E+04
+Q86SQ0,8 (7),35.22,---,1.15,,"Pleckstrin homology-like domain family B member 2 OS=Homosapiens GN=PHLDB2 PE=1 SV=2",3.14E+04,2.72E+04,2.75E+04
+B4DF80,8 (5),35.22,---,1.09,,"cDNA FLJ58527_ highly similar to Nucleolar protein 6 OS=Homosapiens PE=2 SV=1",5.17E+04,5.65E+04,5.24E+04
+Q2M3C7,8 (7),34.91,---,2.32,1,"A-kinase anchor protein SPHKAP OS=Homo sapiens GN=SPHKAPPE=1 SV=1",1.55E+05,1.71E+05,3.59E+05
+B2RUT8,8 (4),34.46,---,1.24,1,"Benzodiazapine receptor (Peripheral) associated protein 1OS=Homo sapiens GN=BZRAP1 PE=2 SV=1",8.21E+04,8.52E+04,1.02E+05
+Q6GYQ0,7 (4),34.31,---,1.1,1,"Ral GTPase-activating protein subunit alpha-1 OS=Homo sapiensGN=RALGAPA1 PE=1 SV=1",1.00E+04,1.03E+04,1.11E+04
+O94822,7 (5),34.26,---,1.06,,"E3 ubiquitin-protein ligase listerin OS=Homo sapiens GN=LTN1PE=1 SV=6",3.93E+04,3.72E+04,3.80E+04
+Q92621,7 (6),34,---,1.09,1,"Nuclear pore complex protein Nup205 OS=Homo sapiensGN=NUP205 PE=1 SV=3",7.28E+04,7.34E+04,6.76E+04
+A0A0B4J1W0,7 (6),33.99,---,1.2,,"Mediator of RNA polymerase II transcription subunit 24 OS=Homosapiens GN=MED24 PE=1 SV=1",3.54E+04,3.27E+04,3.91E+04
+Q12879,8 (8),33.99,---,1.51,1,"Glutamate receptor ionotropic_ NMDA 2A OS=Homo sapiensGN=GRIN2A PE=1 SV=1",4.70E+04,4.40E+04,6.67E+04
+Q9HAR2,8 (3),33.84,---,3.81,1,"Adhesion G protein-coupled receptor L3 OS=Homo sapiensGN=ADGRL3 PE=1 SV=2",1.87E+04,1.97E+04,5.16E+03
+A0A024QZ45,7 (6),33.57,---,1.15,1,"BRCA1 interacting protein C-terminal helicase 1_ isoform CRA_aOS=Homo sapiens GN=BRIP1 PE=4 SV=1",3.29E+04,3.12E+04,3.58E+04
+A0A024R8L6,7 (5),33.42,---,1.38,,"ATP-binding cassette_ sub-family A (ABC1)_ member 8_ isoformCRA_a OS=Homo sapiens GN=ABCA8 PE=4 SV=1",2.74E+05,2.35E+05,1.99E+05
+A8K8P1,8 (6),33.19,---,2.01,1,"cDNA FLJ78752_ highly similar to Homo sapiens centromereprotein J (CENPJ)_ mRNA OS=Homo sapiens PE=2 SV=1",3.47E+04,3.75E+04,6.97E+04
+A0A1B0GVU7,7 (3),33.17,---,1.06,,Talin-2 OS=Homo sapiens GN=TLN2 PE=1 SV=1,3.62E+04,3.61E+04,3.43E+04
+Q96BY7,8 (6),33.07,---,2.66,1,"Autophagy-related protein 2 homolog B OS=Homo sapiensGN=ATG2B PE=1 SV=5",3.52E+04,3.24E+04,8.63E+04
+A8K2V7,7 (5),33.05,---,2.36,,"cDNA FLJ76088_ highly similar to Homo sapiens dual oxidase 1(DUOX1)_ transcript variant 1_ mRNA OS=Homo sapiens PE=2 SV=1",5.75E+04,5.12E+04,1.21E+05
+D3U719,7 (5),33.02,---,1.14,1,"Conserved telomere capping protein 1 OS=Homo sapiens GN=CTC1PE=2 SV=1",6.19E+04,5.44E+04,5.90E+04
+Q70EL1,9 (7),32.65,---,1.09,1,"Inactive ubiquitin carboxyl-terminal hydrolase 54 OS=Homosapiens GN=USP54 PE=1 SV=4",6.14E+04,6.36E+04,6.70E+04
+Q5VW36,8 (6),32.44,---,1.36,,Focadhesin OS=Homo sapiens GN=FOCAD PE=1 SV=1,2.81E+04,2.58E+04,3.51E+04
+P38935,7 (3),32.19,---,1.19,,"DNA-binding protein SMUBP-2 OS=Homo sapiens GN=IGHMBP2 PE=1SV=3",5.66E+04,6.52E+04,5.48E+04
+A8K5J1,7 (6),31.97,---,1.05,,"Uridine monophosphate synthetase (Orotate phosphoribosyltransferase and orotidine-5'-decarboxylase)_ isoform CRA_bOS=Homo sapiens GN=UMPS PE=2 SV=1",1.06E+05,1.11E+05,1.11E+05
+P13535,8 (5),31.91,---,1.12,,Myosin-8 OS=Homo sapiens GN=MYH8 PE=1 SV=3,4.61E+04,5.15E+04,4.64E+04
+Q9UPU7,8 (6),31.73,---,1.11,,"TBC1 domain family member 2B OS=Homo sapiens GN=TBC1D2BPE=1 SV=2",6.99E+04,6.57E+04,7.28E+04
+A0JP08,7 (5),31.58,---,1.12,1,"Zinc finger E-box binding homeobox 2 OS=Homo sapiens GN=ZEB2PE=1 SV=1",3.90E+04,3.76E+04,4.23E+04
+Q9Y6J0,8 (8),31.54,---,1.12,1,"Calcineurin-binding protein cabin-1 OS=Homo sapiens GN=CABIN1PE=1 SV=1",3.52E+04,3.49E+04,3.92E+04
+Q63HK3,8 (6),31.52,---,1.53,,"Zinc finger protein with KRAB and SCAN domains 2 OS=Homosapiens GN=ZKSCAN2 PE=1 SV=2",6.27E+04,5.69E+04,8.67E+04
+A0A0A0MR03,7 (5),31.12,---,1.05,1,"RNA polymerase II subunit A C-terminal domain phosphataseOS=Homo sapiens GN=CTDP1 PE=1 SV=1",5.80E+04,6.07E+04,5.98E+04
+Q96K76,7 (5),30.89,---,1.58,1,"Ubiquitin carboxyl-terminal hydrolase 47 OS=Homo sapiensGN=USP47 PE=1 SV=3",5.39E+04,4.96E+04,7.81E+04
+Q6ZMY3,7 (5),30.62,---,1.03,,"SPOC domain-containing protein 1 OS=Homo sapiens GN=SPOCD1PE=2 SV=1",1.57E+04,1.53E+04,1.56E+04
+C1PHA2,7 (4),30.62,---,1.02,,"Tyrosine-protein kinase receptor OS=Homo sapiens GN=KIF5B-ALKPE=2 SV=1",1.76E+04,1.78E+04,1.79E+04
+J3KN16,7 (5),30.58,---,1.14,1,KIAA0368 OS=Homo sapiens GN=KIAA0368 PE=1 SV=1,2.29E+04,2.05E+04,2.00E+04
+A0AVI2,7 (5),30.38,---,1.21,,Fer-1-like protein 5 OS=Homo sapiens GN=FER1L5 PE=2 SV=2,5.71E+04,5.97E+04,6.92E+04
+Q9NQW1,6 (3),30.36,---,1.17,1,"Protein transport protein Sec31B OS=Homo sapiens GN=SEC31BPE=1 SV=1",4.19E+04,3.97E+04,3.58E+04
+P48357,7 (6),30.35,---,1.2,,Leptin receptor OS=Homo sapiens GN=LEPR PE=1 SV=2,1.46E+04,1.26E+04,1.51E+04
+Q6ZU64,7 (6),30.27,---,1.09,,"Cilia- and flagella-associated protein 65 OS=Homo sapiensGN=CFAP65 PE=1 SV=2",8.25E+04,7.63E+04,8.30E+04
+A0A087WTD7,7 (5),30.26,---,1.15,,"A-kinase anchor protein 13 OS=Homo sapiens GN=AKAP13 PE=1SV=1",3.43E+04,3.11E+04,3.59E+04
+P11277,8 (6),30.21,---,1.12,1,"Spectrin beta chain_ erythrocytic OS=Homo sapiens GN=SPTB PE=1SV=5",6.27E+04,5.78E+04,6.45E+04
+A0A024R104,7 (7),30.12,---,1.09,1,"Contactin 1_ isoform CRA_a OS=Homo sapiens GN=CNTN1 PE=4SV=1",6.31E+04,6.79E+04,6.25E+04
+O60333,7 (5),30.1,---,1.07,1,Kinesin-like protein KIF1B OS=Homo sapiens GN=KIF1B PE=1 SV=5,2.09E+04,1.95E+04,2.07E+04
+A0A140VJN5,7 (5),29.91,---,1.51,1,Testicular tissue protein Li 111 OS=Homo sapiens PE=2 SV=1,4.00E+04,3.51E+04,5.31E+04
+Q5JU85,7 (5),29.87,---,1.2,1,"IQ motif and SEC7 domain-containing protein 2 OS=Homo sapiensGN=IQSEC2 PE=1 SV=1",1.66E+05,1.71E+05,1.99E+05
+A0A024R6X4,6 (3),29.8,---,1.1,,"Pleckstrin homology domain containing_ family G (With RhoGefdomain) member 4_ isoform CRA_a OS=Homo sapiens GN=PLEKHG4PE=4 SV=1",1.12E+04,1.22E+04,1.18E+04
+Q2M3G0,6 (4),29.8,---,1.11,1,"ATP-binding cassette sub-family B member 5 OS=Homo sapiensGN=ABCB5 PE=1 SV=4",1.65E+04,1.84E+04,1.77E+04
+A0A075B7B1,7 (5),29.59,---,1.18,,Desmuslin_ isoform CRA_a OS=Homo sapiens GN=SYNM PE=1 SV=1,1.83E+04,1.95E+04,2.15E+04
+K7ER94,7 (5),29.59,---,1.09,1,"FH1/FH2 domain-containing protein 3 (Fragment) OS=Homosapiens GN=FHOD3 PE=1 SV=1",2.15E+04,2.05E+04,2.23E+04
+A8K0K2,7 (3),29.58,---,1.2,1,"cDNA FLJ75530_ highly similar to Human APC gene mRNA(Fragment) OS=Homo sapiens PE=2 SV=1",4.69E+04,3.90E+04,4.45E+04
+O15083,7 (5),29.49,---,1.08,1,ERC protein 2 OS=Homo sapiens GN=ERC2 PE=1 SV=3,9.77E+04,9.45E+04,9.09E+04
+E2RVJ0,6 (4),29.18,---,1.25,,Anion exchange protein OS=Homo sapiens GN=SLC4A1 PE=2 SV=1,2.14E+04,2.15E+04,2.67E+04
+A0A0A0MT39,6 (5),29.08,---,2.24,1,Sodium channel protein OS=Homo sapiens GN=SCN5A PE=3 SV=1,2.56E+04,2.58E+04,5.72E+04
+Q9Y4K1,8 (3),29.04,---,1.07,1,"Absent in melanoma 1 protein OS=Homo sapiens GN=AIM1 PE=1SV=3",6.00E+04,6.07E+04,6.43E+04
+H0Y6I0,7 (5),28.98,---,1.19,,"Golgin subfamily A member 4 (Fragment) OS=Homo sapiensGN=GOLGA4 PE=1 SV=1",7.84E+03,8.39E+03,7.05E+03
+Q86WI3,7 (4),28.97,---,1.13,,Protein NLRC5 OS=Homo sapiens GN=NLRC5 PE=1 SV=3,9.40E+03,9.45E+03,8.40E+03
+A0A087WYK2,7 (7),28.95,---,2.32,,"Serine/threonine-protein kinase WNK3 OS=Homo sapiensGN=WNK3 PE=1 SV=1",7.66E+04,7.44E+04,1.73E+05
+A5D6X1,6 (2),28.94,---,1.13,1,MAP1B protein (Fragment) OS=Homo sapiens GN=MAP1B PE=2 SV=1,2.81E+04,2.67E+04,3.01E+04
+Q96M83,7 (5),28.9,---,2.57,,"Coiled-coil domain-containing protein 7 OS=Homo sapiensGN=CCDC7 PE=2 SV=3",5.71E+04,4.91E+04,1.26E+05
+Q6ZMV9,8 (6),28.81,---,2.21,1,Kinesin-like protein KIF6 OS=Homo sapiens GN=KIF6 PE=1 SV=3,4.34E+04,3.97E+04,8.80E+04
+O94988,7 (4),28.41,---,1.21,1,Protein FAM13A OS=Homo sapiens GN=FAM13A PE=1 SV=2,2.30E+04,2.20E+04,2.67E+04
+O95373,6 (6),28.41,---,1.05,1,Importin-7 OS=Homo sapiens GN=IPO7 PE=1 SV=1,7.45E+04,7.26E+04,7.65E+04
+A0A024RDQ1,6 (6),28.38,---,1.21,,"Furry homolog (Drosophila)_ isoform CRA_c OS=Homo sapiensGN=FRY PE=4 SV=1",4.22E+04,5.08E+04,4.39E+04
+D3DS91,6 (3),28.38,---,1.02,1,"A kinase (PRKA) anchor protein 6_ isoform CRA_b OS=Homosapiens GN=AKAP6 PE=4 SV=1",3.15E+04,3.09E+04,3.14E+04
+A0A024R7N2,6 (6),28.31,---,1.04,,"Cation-transporting ATPase OS=Homo sapiens GN=ATP13A1 PE=3SV=1",4.96E+04,5.07E+04,5.17E+04
+P12882,8 (2),28.22,---,1.09,,Myosin-1 OS=Homo sapiens GN=MYH1 PE=1 SV=3,2.05E+04,1.88E+04,2.00E+04
+A0A087WWA5,7 (5),28.03,---,1.21,,Tenascin-X OS=Homo sapiens GN=TNXB PE=1 SV=1,1.07E+05,9.72E+04,1.17E+05
+Q02779,7 (4),28.01,---,1.13,1,"Mitogen-activated protein kinase kinase kinase 10 OS=Homosapiens GN=MAP3K10 PE=1 SV=3",1.48E+04,1.41E+04,1.32E+04
+J3KQ21,6 (1),27.85,---,1.4,1,"Ankyrin repeat and MYND domain-containing protein 1 OS=Homosapiens GN=ANKMY1 PE=4 SV=1",1.07E+04,1.33E+04,1.51E+04
+Q92538,6 (3),27.63,---,1.09,1,"Golgi-specific brefeldin A-resistance guanine nucleotide exchangefactor 1 OS=Homo sapiens GN=GBF1 PE=1 SV=2",8.50E+03,7.79E+03,8.31E+03
+Q96T23,6 (1),27.42,---,1.22,1,"Remodeling and spacing factor 1 OS=Homo sapiens GN=RSF1 PE=1SV=2",1.94E+04,1.59E+04,1.82E+04
+Q86YA3,6 (4),27.4,---,1.09,1,Protein ZGRF1 OS=Homo sapiens GN=ZGRF1 PE=1 SV=3,1.02E+05,9.31E+04,9.72E+04
+Q9H2Y7,6 (4),27.32,---,1.16,1,Zinc finger protein 106 OS=Homo sapiens GN=ZNF106 PE=1 SV=1,2.14E+04,2.13E+04,2.46E+04
+Q13635,6 (5),27.31,---,1.06,,"Protein patched homolog 1 OS=Homo sapiens GN=PTCH1 PE=1SV=2",2.46E+04,2.32E+04,2.37E+04
+B4DWC0,6 (3),27.25,---,1.39,1,"cDNA FLJ58290_ highly similar to Zinc finger MYM-type protein 6(Fragment) OS=Homo sapiens PE=2 SV=1",5.06E+04,3.77E+04,5.25E+04
+Q7RTU9,6 (2),27.17,---,1.24,,Stereocilin OS=Homo sapiens GN=STRC PE=2 SV=1,1.96E+04,1.76E+04,1.58E+04
+Q71F56,6 (3),27.14,---,1.24,,"Mediator of RNA polymerase II transcription subunit 13-likeOS=Homo sapiens GN=MED13L PE=1 SV=1",3.27E+04,4.03E+04,4.05E+04
+Q5JSZ5,6 (3),27.06,---,1.14,,Protein PRRC2B OS=Homo sapiens GN=PRRC2B PE=1 SV=2,1.70E+04,1.81E+04,1.60E+04
+A0A024R209,6 (6),26.82,---,1.05,,"Transient receptor potential cation channel_ subfamily M_member 1_ isoform CRA_a OS=Homo sapiens GN=TRPM1 PE=4 SV=1",5.86E+04,5.92E+04,6.16E+04
+Q01118,7 (7),26.69,---,1.19,1,"Sodium channel protein type 7 subunit alpha OS=Homo sapiensGN=SCN7A PE=1 SV=2",2.23E+04,2.08E+04,2.47E+04
+O14514,7 (6),26.65,---,1.7,,"Brain-specific angiogenesis inhibitor 1 OS=Homo sapiens GN=BAI1PE=1 SV=2",1.37E+04,1.42E+04,8.38E+03
+A6NHR9,6 (4),26.6,---,1.06,1,"Structural maintenance of chromosomes flexible hinge domain-containing protein 1 OS=Homo sapiens GN=SMCHD1 PE=1 SV=2",1.08E+05,1.03E+05,1.09E+05
+H0YJP0,6 (5),26.57,---,1.17,,"E3 ubiquitin-protein ligase HECTD1 (Fragment) OS=Homo sapiensGN=HECTD1 PE=1 SV=2",2.36E+04,2.76E+04,2.75E+04
+A0A024R1E6,5 (3),26.49,---,1.29,,"Preferentially expressed antigen in melanoma_ isoform CRA_aOS=Homo sapiens GN=PRAME PE=4 SV=1",1.28E+04,1.31E+04,1.02E+04
+A7E2A5,6 (3),26.41,---,1.18,,ARAP2 protein (Fragment) OS=Homo sapiens GN=ARAP2 PE=2 SV=1,8.78E+03,1.02E+04,1.04E+04
+Q9Y6X0,6 (5),26.37,---,1.15,1,SET-binding protein OS=Homo sapiens GN=SETBP1 PE=1 SV=3,2.30E+04,2.00E+04,2.26E+04
+A6NEQ0,6 (4),26.32,---,1.1,1,"RNA-binding motif protein_ Y chromosome_ family 1 member EOS=Homo sapiens GN=RBMY1E PE=2 SV=1",4.65E+04,4.22E+04,4.44E+04
+B7Z7S1,6 (4),26.23,---,1.15,,"cDNA FLJ61721_ highly similar to Homo sapiens ring finger protein17 (RNF17)_ mRNA OS=Homo sapiens PE=2 SV=1",3.82E+04,4.11E+04,3.57E+04
+P01031,6 (4),25.98,---,1.04,,Complement C5 OS=Homo sapiens GN=C5 PE=1 SV=4,1.82E+04,1.80E+04,1.75E+04
+G1UI29,6 (4),25.9,---,1.28,,Helicase SRCAP (Fragment) OS=Homo sapiens GN=SRCAP PE=2 SV=1,3.02E+04,2.93E+04,2.37E+04
+B5TMG5,6 (6),25.88,---,1.29,,"Histidine rich calcium binding protein OS=Homo sapiens GN=HRCPE=4 SV=1",4.88E+04,4.53E+04,3.79E+04
+Q9HAU0,7 (4),25.86,---,1.08,,"Pleckstrin homology domain-containing family A member 5OS=Homo sapiens GN=PLEKHA5 PE=1 SV=1",3.32E+04,3.08E+04,3.24E+04
+A0A158RFW1,5 (3),25.79,---,1.07,,"Alpha 1 type XXI collagen OS=Homo sapiens GN=COL21A1 PE=4SV=1",8.22E+04,8.06E+04,8.66E+04
+B7ZKX1,6 (4),25.74,---,1.29,1,RFX7 protein (Fragment) OS=Homo sapiens GN=RFX7 PE=2 SV=1,3.76E+04,4.84E+04,3.79E+04
+B1AHL2,5 (3),25.72,---,1.08,1,Fibulin-1 OS=Homo sapiens GN=FBLN1 PE=1 SV=1,3.73E+04,3.57E+04,3.45E+04
+Q9P2R6,7 (5),25.64,---,1.58,,"Arginine-glutamic acid dipeptide repeats protein OS=Homo sapiensGN=RERE PE=1 SV=2",3.81E+04,3.23E+04,5.10E+04
+Q6ZUT9,7 (4),25.64,---,1.16,1,"DENN domain-containing protein 5B OS=Homo sapiensGN=DENND5B PE=1 SV=2",4.73E+04,4.24E+04,4.91E+04
+Q13367,6 (6),25.62,---,1.16,,"AP-3 complex subunit beta-2 OS=Homo sapiens GN=AP3B2 PE=1SV=2",3.53E+04,3.04E+04,3.47E+04
+B3KXB6,6 (6),25.52,---,1.21,,"cDNA FLJ45101 fis_ clone BRAWH3032298_ highly similar toTenascin-N OS=Homo sapiens PE=2 SV=1",3.26E+04,2.69E+04,2.97E+04
+A5PKZ7,6 (4),25.37,---,1.14,,Phospholipase A2 OS=Homo sapiens GN=PLA2G4F PE=2 SV=1,1.50E+04,1.32E+04,1.46E+04
+Q9UPR0,6 (4),25.32,---,1.19,1,"Inactive phospholipase C-like protein 2 OS=Homo sapiensGN=PLCL2 PE=1 SV=2",1.33E+04,1.45E+04,1.23E+04
+A0A024R8E5,6 (4),25.3,---,1.19,,"Collagen_ type V_ alpha 1_ isoform CRA_a OS=Homo sapiensGN=COL5A1 PE=4 SV=1",6.28E+03,5.99E+03,5.25E+03
+A3KMH1,7 (5),25.16,---,1.25,,"von Willebrand factor A domain-containing protein 8 OS=Homosapiens GN=VWA8 PE=1 SV=2",2.23E+04,2.34E+04,2.77E+04
+B4E2I4,5 (5),25.13,---,1.09,1,"cDNA FLJ58227_ highly similar to Glutamate--cysteine ligasecatalytic subunit (EC 6.3.2.2) OS=Homo sapiens PE=2 SV=1",1.25E+04,1.18E+04,1.28E+04
+J9R021,6 (4),25.09,---,1.11,,"Eukaryotic translation initiation factor 3 subunit A OS=Homosapiens GN=eIF3a PE=2 SV=1",6.01E+04,6.12E+04,6.67E+04
+A0AVK6,5 (5),24.95,---,1.11,,Transcription factor E2F8 OS=Homo sapiens GN=E2F8 PE=1 SV=1,8.96E+04,9.85E+04,8.83E+04
+Q6ZUG5,5 (3),24.79,---,1.13,1,Uncharacterized protein FLJ43738 OS=Homo sapiens PE=2 SV=1,1.31E+04,1.39E+04,1.23E+04
+A0A087WTW5,6 (3),24.76,---,1.25,1,"CASP8-associated protein 2 OS=Homo sapiens GN=CASP8AP2 PE=1SV=1",2.75E+04,2.28E+04,2.85E+04
+Q6ZT12,6 (2),24.71,---,1.07,1,"E3 ubiquitin-protein ligase UBR3 OS=Homo sapiens GN=UBR3 PE=2SV=2",3.05E+04,3.03E+04,3.24E+04
+A8K182,5 (4),24.7,---,1.47,1,"Sortilin-related VPS10 domain containing receptor 1_ isoformCRA_d OS=Homo sapiens GN=SORCS1 PE=2 SV=1",3.39E+04,3.57E+04,4.97E+04
+B1ALM3,6 (5),24.68,---,1.92,1,"Voltage-dependent L-type calcium channel subunit alphaOS=Homo sapiens GN=CACNA1S PE=1 SV=1",5.84E+04,5.00E+04,9.61E+04
+Q96JE9,6 (4),24.56,---,1.02,,"Microtubule-associated protein 6 OS=Homo sapiens GN=MAP6 PE=1SV=2",8.97E+04,9.06E+04,8.84E+04
+A0A0C4DG33,5 (4),24.43,---,1.22,,"Peroxisome biogenesis factor 1 OS=Homo sapiens GN=PEX1 PE=1SV=1",1.58E+04,1.93E+04,1.59E+04
+B2RWP8,5 (2),24.41,---,1.32,1,Phospholipase B1 OS=Homo sapiens GN=PLB1 PE=2 SV=1,2.30E+04,2.88E+04,2.17E+04
+Q7Z3Z5,6 (5),24.31,---,1.28,,"Mediator of RNA polymerase II transcription subunit 12 OS=Homosapiens GN=TNRC11 PE=1 SV=1",2.99E+04,3.81E+04,3.56E+04
+G3XAI2,6 (2),24.17,---,1.08,1,Laminin subunit beta-1 OS=Homo sapiens GN=LAMB1 PE=1 SV=1,1.17E+05,1.18E+05,1.26E+05
+P19174,5 (5),24.03,---,1.22,,"1-phosphatidylinositol 4_5-bisphosphate phosphodiesterasegamma-1 OS=Homo sapiens GN=PLCG1 PE=1 SV=1",3.67E+04,4.48E+04,4.15E+04
+A0A024R3K9,5 (5),23.98,---,1.29,,"Nuclear factor related to kappaB binding protein_ isoform CRA_cOS=Homo sapiens GN=NFRKB PE=4 SV=1",9.67E+04,9.35E+04,7.48E+04
+A0A0J9YVZ6,6 (6),23.95,---,1.11,,"Unconventional myosin-XVB OS=Homo sapiens GN=MYO15B PE=1SV=1",9.11E+04,9.29E+04,8.38E+04
+A8K1Y7,5 (4),23.94,---,1.25,,"cDNA FLJ77273_ highly similar to Homo sapiens centaurin_ delta 3(CENTD3)_ mRNA OS=Homo sapiens PE=2 SV=1",1.47E+04,1.67E+04,1.85E+04
+A0A1B0GV47,5 (4),23.92,---,1.06,1,"Kinesin-like protein KIF21A (Fragment) OS=Homo sapiensGN=KIF21A PE=1 SV=1",4.69E+04,4.99E+04,4.69E+04
+Q9UJF2,5 (3),23.74,---,1.07,1,"Ras GTPase-activating protein nGAP OS=Homo sapiens GN=RASAL2PE=1 SV=2",1.92E+04,1.89E+04,1.80E+04
+Q86TP1,5 (5),23.73,---,1.42,,Protein prune homolog OS=Homo sapiens GN=PRUNE PE=1 SV=2,1.60E+05,1.35E+05,1.12E+05
+P35712,5 (4),23.64,---,1.24,1,Transcription factor SOX-6 OS=Homo sapiens GN=SOX6 PE=1 SV=3,5.56E+04,4.47E+04,4.96E+04
+B7ZLD0,5 (4),23.47,---,1.09,1,LRP6 protein OS=Homo sapiens GN=LRP6 PE=2 SV=1,2.60E+04,2.58E+04,2.81E+04
+Q76LX8,6 (4),23.46,---,1.13,,"A disintegrin and metalloproteinase with thrombospondin motifs13 OS=Homo sapiens GN=ADAMTS13 PE=1 SV=1",5.31E+04,4.71E+04,5.25E+04
+Q5JYA6,5 (4),23.44,---,1.2,1,"Pleckstrin homology domain containing_ family G (With RhoGefdomain) member 1 OS=Homo sapiens GN=PLEKHG1 PE=2 SV=1",2.11E+04,1.95E+04,2.35E+04
+Q9Y2L6,5 (3),23.29,---,3.57,,"FERM domain-containing protein 4B OS=Homo sapiens GN=FRMD4BPE=1 SV=4",2.61E+04,2.14E+04,7.64E+04
+Q14008,6 (5),23.2,---,1.07,,"Cytoskeleton-associated protein 5 OS=Homo sapiens GN=CKAP5PE=1 SV=3",6.20E+04,5.91E+04,5.80E+04
+Q659C4,5 (2),23.2,---,1.21,,La-related protein 1B OS=Homo sapiens GN=LARP1B PE=1 SV=2,1.82E+04,1.63E+04,1.97E+04
+B4DKD0,5 (4),23.2,---,1.42,,DNA topoisomerase 2 (Fragment) OS=Homo sapiens PE=2 SV=1,7.24E+04,7.08E+04,1.01E+05
+Q5TYW1,5 (2),23.16,---,1.41,,Zinc finger protein 658 OS=Homo sapiens GN=ZNF658 PE=2 SV=2,1.78E+04,1.55E+04,1.26E+04
+O43424,6 (4),23.15,---,1.18,,"Glutamate receptor ionotropic_ delta-2 OS=Homo sapiensGN=GRID2 PE=1 SV=2",1.28E+04,1.29E+04,1.51E+04
+A8K5P7,5 (3),23.06,---,1.99,,"cDNA FLJ75523_ highly similar to Homo sapiens glutamatereceptor_ metabotropic 5 (GRM5)_ mRNA (Fragment) OS=Homosapiens PE=2 SV=1",2.15E+04,1.66E+04,1.08E+04
+A0A0A0MT08,5 (3),23.03,---,1.29,,"MROH7-TTC4 readthrough (NMD candidate) OS=Homo sapiensGN=MROH7-TTC4 PE=4 SV=1",1.37E+05,1.77E+05,1.61E+05
+Q13127,5 (3),23.01,---,1.04,1,"RE1-silencing transcription factor OS=Homo sapiens GN=REST PE=1SV=3",5.56E+03,5.42E+03,5.64E+03
+B7ZKS3,5 (4),22.96,---,1.08,,"Ubiquitin specific peptidase 48 OS=Homo sapiens GN=USP48 PE=2SV=1",5.37E+04,4.98E+04,5.38E+04
+A0A024R9I5,5 (5),22.88,---,1.71,1,"Solute carrier family 12 (Potassium/chloride transporters)_member 6_ isoform CRA_d OS=Homo sapiens GN=SLC12A6 PE=4SV=1",2.32E+04,2.14E+04,3.66E+04
+X5D9K3,5 (2),22.73,---,1.08,,"Tuberous sclerosis 2 isoform E OS=Homo sapiens GN=TSC2 PE=2SV=1",7.18E+04,7.74E+04,7.66E+04
+Q5HYK7,6 (4),22.73,---,1.14,,"SH3 domain-containing protein 19 OS=Homo sapiens GN=SH3D19PE=1 SV=2",1.11E+04,1.09E+04,9.74E+03
+Q6R327,5 (3),22.72,---,1.06,1,"Rapamycin-insensitive companion of mTOR OS=Homo sapiensGN=RICTOR PE=1 SV=1",4.26E+04,4.49E+04,4.23E+04
+A0A024R9G7,5 (4),22.6,---,1.1,,"ATPase family_ AAA domain containing 2_ isoform CRA_c OS=Homosapiens GN=ATAD2 PE=4 SV=1",2.16E+04,2.32E+04,2.12E+04
+D3DT71,5 (3),22.56,---,1.48,,"Collagen_ type XI_ alpha 1_ isoform CRA_b OS=Homo sapiensGN=COL11A1 PE=4 SV=1",8.42E+03,8.04E+03,1.19E+04
+Q8IWY9,5 (5),22.51,---,1.28,,Codanin-1 OS=Homo sapiens GN=CDAN1 PE=1 SV=4,1.03E+04,1.25E+04,1.32E+04
+O15360,5 (2),22.29,---,1.11,,"Fanconi anemia group A protein OS=Homo sapiens GN=FANCA PE=1SV=2",6.65E+03,6.91E+03,6.24E+03
+A0A024R8B6,5 (4),22.25,---,1.1,,"Nucleoporin 214kDa_ isoform CRA_b OS=Homo sapiens GN=NUP214PE=4 SV=1",2.20E+04,2.43E+04,2.40E+04
+A8K4P8,5 (3),22.18,---,1.26,1,cDNA FLJ75337 OS=Homo sapiens PE=2 SV=1,5.02E+04,5.28E+04,4.20E+04
+A0A024RD55,5 (1),22.11,---,1.39,1,"EGF-like-domain_ multiple 9_ isoform CRA_a OS=Homo sapiensGN=EGFL9 PE=4 SV=1",4.22E+04,3.47E+04,3.03E+04
+Q6PKG0,5 (4),22.09,---,1.18,,La-related protein 1 OS=Homo sapiens GN=LARP1 PE=1 SV=2,2.03E+04,1.90E+04,2.25E+04
+Q658Y4,5 (5),22.07,---,1.02,,Protein FAM91A1 OS=Homo sapiens GN=FAM91A1 PE=1 SV=3,4.15E+04,4.20E+04,4.24E+04
+Q9P2K1,5 (3),22,---,1.01,1,"Coiled-coil and C2 domain-containing protein 2A OS=Homo sapiensGN=CC2D2A PE=1 SV=3",1.93E+04,1.93E+04,1.95E+04
+Q9UHF7,5 (3),21.95,---,1.05,,"Zinc finger transcription factor Trps1 OS=Homo sapiens GN=TRPS1PE=1 SV=2",1.50E+04,1.57E+04,1.57E+04
+A0A0A0MRJ0,5 (4),21.86,---,1.05,1,"Serine/threonine-protein kinase MRCK alpha OS=Homo sapiensGN=CDC42BPA PE=1 SV=1",4.85E+04,5.02E+04,4.77E+04
+Q8IZE3,5 (4),21.85,---,1.28,,"Protein-associating with the carboxyl-terminal domain of ezrinOS=Homo sapiens GN=SCYL3 PE=1 SV=3",2.15E+05,2.14E+05,2.73E+05
+A8K8V8,5 (4),21.61,---,1.25,1,cDNA FLJ76444 OS=Homo sapiens PE=2 SV=1,2.44E+04,2.78E+04,2.22E+04
+A0A024R7C7,4 (2),21.59,---,1.09,,"Interleukin enhancer binding factor 3_ 90kDa_ isoform CRA_dOS=Homo sapiens GN=ILF3 PE=4 SV=1",6.29E+03,5.94E+03,5.78E+03
+Q96QU1,6 (5),21.51,---,1.09,1,Protocadherin-15 OS=Homo sapiens GN=PCDH15 PE=1 SV=2,9.47E+03,9.10E+03,9.88E+03
+Q6FHF7,5 (3),21.45,---,1.27,1,"RABGGTA protein (Fragment) OS=Homo sapiens GN=RABGGTA PE=2SV=1",8.14E+03,1.04E+04,8.16E+03
+A0A0D9SFM0,5 (4),21.43,---,1.12,1,"E3 ubiquitin-protein ligase SHPRH OS=Homo sapiens GN=SHPRHPE=1 SV=1",2.04E+05,1.94E+05,2.16E+05
+B4DM01,5 (3),21.32,---,1.16,,"cDNA FLJ57529_ highly similar to Helicase SKI2W (EC 3.6.1.-)OS=Homo sapiens PE=2 SV=1",4.44E+04,3.82E+04,4.43E+04
+Q9UBG0,5 (5),21.25,---,1.38,1,C-type mannose receptor 2 OS=Homo sapiens GN=MRC2 PE=1 SV=2,4.66E+04,4.52E+04,6.24E+04
+Q14676,5 (4),21.22,---,1.2,,"Mediator of DNA damage checkpoint protein 1 OS=Homo sapiensGN=MDC1 PE=1 SV=3",5.02E+04,4.56E+04,5.47E+04
+A8K6Q4,5 (4),21.17,---,1.24,,"cDNA FLJ76888_ highly similar to Homo sapiens RNA binding motifprotein 6 (RBM6)_ mRNA OS=Homo sapiens PE=2 SV=1",4.37E+04,3.52E+04,4.29E+04
+A8MQ02,5 (4),21.16,---,1.23,,Afadin OS=Homo sapiens GN=AFDN PE=1 SV=2,2.30E+04,1.91E+04,2.36E+04
+Q9BPX3,5 (3),21.15,---,1.07,,"Condensin complex subunit 3 OS=Homo sapiens GN=NCAPG PE=1SV=1",6.82E+04,6.36E+04,6.79E+04
+B4DR53,5 (5),21.11,---,1.24,,Anion exchange protein OS=Homo sapiens PE=2 SV=1,4.71E+04,4.86E+04,5.84E+04
+O43719,5 (4),21.06,---,2.12,,HIV Tat-specific factor 1 OS=Homo sapiens GN=HTATSF1 PE=1 SV=1,2.22E+04,2.18E+04,4.63E+04
+B2RNT9,5 (4),20.99,---,1.23,,UHRF1BP1 protein OS=Homo sapiens GN=UHRF1BP1 PE=2 SV=1,1.50E+04,1.75E+04,1.42E+04
+Q13443,4 (2),20.95,---,1.67,1,"Disintegrin and metalloproteinase domain-containing protein 9OS=Homo sapiens GN=ADAM9 PE=1 SV=1",1.85E+04,1.61E+04,2.68E+04
+Q96BJ8,5 (4),20.85,---,1.14,,"Engulfment and cell motility protein 3 OS=Homo sapiensGN=ELMO3 PE=1 SV=3",1.17E+05,1.33E+05,1.30E+05
+G3V2A4,5 (4),20.85,---,1.07,1,"Telomerase protein component 1 OS=Homo sapiens GN=TEP1 PE=1SV=1",3.77E+04,3.69E+04,3.51E+04
+C9J5X1,5 (4),20.81,---,1.23,,"Tyrosine-protein kinase receptor OS=Homo sapiens GN=IGF1R PE=1SV=1",3.17E+04,3.06E+04,3.76E+04
+B2R636,5 (4),20.8,---,1.22,1,"cDNA_ FLJ92762_ highly similar to Homo sapiens ubiquitin specificprotease 1 (USP1)_ mRNA OS=Homo sapiens PE=2 SV=1",2.29E+04,1.89E+04,2.31E+04
+A6NKG5,5 (4),20.79,---,1.08,,"Retrotransposon-like protein 1 OS=Homo sapiens GN=RTL1 PE=3SV=3",1.41E+05,1.53E+05,1.52E+05
+Q8IUD2,6 (3),20.71,---,1.14,,"ELKS/Rab6-interacting/CAST family member 1 OS=Homo sapiensGN=ERC1 PE=1 SV=1",4.90E+04,5.37E+04,5.61E+04
+A0A024R2H0,4 (2),20.7,---,1.1,,"TBC1 domain family_ member 5_ isoform CRA_a OS=Homo sapiensGN=TBC1D5 PE=4 SV=1",8.28E+03,8.88E+03,8.06E+03
+Q8NCN5,6 (4),20.59,---,1.82,,"Pyruvate dehydrogenase phosphatase regulatory subunit_mitochondrial OS=Homo sapiens GN=PDPR PE=1 SV=2",1.95E+04,3.54E+04,3.31E+04
+P23229,5 (3),20.58,---,1.09,1,Integrin alpha-6 OS=Homo sapiens GN=ITGA6 PE=1 SV=5,5.97E+04,6.51E+04,6.25E+04
+P48634,6 (4),20.54,---,1.26,,Protein PRRC2A OS=Homo sapiens GN=PRRC2A PE=1 SV=3,6.72E+04,5.32E+04,5.88E+04
+A0A024R1V5,5 (3),20.54,---,1.16,,"Myeloid/lymphoid or mixed-lineage leukemia (Trithorax homolog_Drosophila) translocated to_ 6_ isoform CRA_a OS=Homo sapiensGN=MLLT6 PE=4 SV=1",4.61E+04,4.44E+04,5.13E+04
+Q9ULD2,5 (4),20.35,---,1.1,,"Microtubule-associated tumor suppressor 1 OS=Homo sapiensGN=MTUS1 PE=1 SV=2",5.27E+04,5.81E+04,5.81E+04
+Q6PIK7,5 (4),20.33,---,1.86,,"Angiogenic factor with G patch and FHA domains 1 OS=Homosapiens GN=AGGF1 PE=1 SV=1",2.59E+05,3.96E+05,4.82E+05
+B4DNR7,4 (4),20.19,---,1.19,1,"cDNA FLJ51010_ highly similar to Latent-transforming growthfactor beta-binding protein_ isoform 1S OS=Homo sapiens PE=2SV=1",9.39E+04,9.96E+04,8.37E+04
+A0A0A0MR60,4 (2),20.18,---,1.25,,"Receptor-type tyrosine-protein phosphatase S OS=Homo sapiensGN=PTPRS PE=4 SV=1",5.07E+04,4.84E+04,6.07E+04
+Q9NXD2,5 (2),20.14,---,1.06,1,"Myotubularin-related protein 10 OS=Homo sapiens GN=MTMR10PE=1 SV=3",7.03E+03,6.65E+03,6.68E+03
+Q13017,4 (3),20.05,---,1.05,,"Rho GTPase-activating protein 5 OS=Homo sapiens GN=ARHGAP5PE=1 SV=2",2.59E+04,2.46E+04,2.58E+04
+A0A024RB84,4 (3),20,---,1.17,1,"V-erb-b2 erythroblastic leukemia viral oncogene homolog 3(Avian)_ isoform CRA_a OS=Homo sapiens GN=ERBB3 PE=4 SV=1",2.10E+04,2.06E+04,2.41E+04
+A6H8W8,5 (3),19.96,---,1.08,1,Intersectin 2 OS=Homo sapiens GN=ITSN2 PE=2 SV=1,6.04E+04,6.56E+04,6.40E+04
+Q8N139,5 (4),19.84,---,1.1,1,"ATP-binding cassette sub-family A member 6 OS=Homo sapiensGN=ABCA6 PE=1 SV=2",3.91E+04,4.00E+04,4.29E+04
+A0A0D9SGJ6,5 (2),19.81,---,1.24,,Synaptojanin-1 OS=Homo sapiens GN=SYNJ1 PE=1 SV=1,5.77E+03,6.63E+03,7.18E+03
+A8K6J9,4 (3),19.79,---,1.03,,"cDNA FLJ76879_ highly similar to Homo sapiens DEAH (Asp-Glu-Ala-His) box polypeptide 8 (DHX8)_ mRNA OS=Homo sapiens PE=2SV=1",5.04E+04,5.06E+04,4.93E+04
+B5MDV5,4 (4),19.76,---,1.14,,KIAA1244 OS=Homo sapiens GN=KIAA1244 PE=2 SV=1,1.95E+04,2.00E+04,2.22E+04
+A8K7B7,4 (3),19.7,---,1.14,,"Protein phosphatase 2 (Formerly 2A)_ regulatory subunit A (PR65)_ alpha isoform OS=Homo sapiens GN=PPP2R1A PE=1 SV=1",6.32E+04,6.31E+04,5.55E+04
+O43306,4 (4),19.67,---,1.07,,Adenylate cyclase type 6 OS=Homo sapiens GN=ADCY6 PE=1 SV=2,2.25E+04,2.28E+04,2.40E+04
+Q9BY66,4 (3),19.66,---,1.21,,"Lysine-specific demethylase 5D OS=Homo sapiens GN=KDM5D PE=1SV=2",6.91E+03,8.39E+03,7.29E+03
+Q5VVM6,4 (3),19.64,---,1.19,1,"Coiled-coil domain-containing protein 30 OS=Homo sapiensGN=CCDC30 PE=2 SV=1",2.25E+05,2.02E+05,2.40E+05
+P37059,5 (4),19.63,---,1.68,,"Estradiol 17-beta-dehydrogenase 2 OS=Homo sapiens GN=HSD17B2PE=1 SV=1",2.29E+04,2.44E+04,1.45E+04
+A4D0S4,6 (4),19.62,---,1.18,,Laminin subunit beta-4 OS=Homo sapiens GN=LAMB4 PE=2 SV=1,1.32E+04,1.12E+04,1.23E+04
+Q9UPX0,4 (1),19.62,---,1.12,1,Protein turtle homolog B OS=Homo sapiens GN=IGSF9B PE=2 SV=2,1.05E+05,1.00E+05,1.12E+05
+Q12756,4 (4),19.61,---,1.12,,Kinesin-like protein KIF1A OS=Homo sapiens GN=KIF1A PE=1 SV=2,2.81E+04,2.51E+04,2.56E+04
+A0A024R542,4 (4),19.53,---,1.6,1,"Tankyrase 1 binding protein 1_ 182kDa_ isoform CRA_a OS=Homosapiens GN=TNKS1BP1 PE=2 SV=1",3.76E+04,2.36E+04,2.79E+04
+Q7RTS5,4 (3),19.35,---,1.21,,Otopetrin-3 OS=Homo sapiens GN=OTOP3 PE=1 SV=1,1.65E+04,1.96E+04,1.62E+04
+Q4L180,4 (3),19.35,---,1.37,1,"Filamin A-interacting protein 1-like OS=Homo sapiens GN=FILIP1LPE=1 SV=2",2.33E+04,2.32E+04,3.18E+04
+A0A024RBR4,5 (2),19.31,---,2.92,,"Huntingtin interacting protein 1 related_ isoform CRA_a OS=Homosapiens GN=HIP1R PE=4 SV=1",3.33E+04,3.13E+04,9.14E+04
+A0A024R9Q1,4 (3),19.15,---,1.63,1,"Thrombospondin 1_ isoform CRA_a OS=Homo sapiens GN=THBS1PE=4 SV=1",1.68E+04,1.61E+04,2.63E+04
+A8K322,5 (4),19.14,---,1.16,,"cDNA FLJ76782_ highly similar to Homo sapiens RAD54 homolog B(S. cerevisiae) (RAD54B)_ transcript variant 1_ mRNA OS=Homosapiens PE=2 SV=1",2.54E+04,2.38E+04,2.19E+04
+Q14147,4 (3),19.14,---,1.06,,"Probable ATP-dependent RNA helicase DHX34 OS=Homo sapiensGN=DHX34 PE=1 SV=2",5.59E+04,5.75E+04,5.91E+04
+D3DN61,4 (4),19.1,---,1.06,,"Zinc finger DAZ interacting protein 3_ isoform CRA_a OS=Homosapiens GN=DZIP3 PE=4 SV=1",3.62E+04,3.74E+04,3.85E+04
+Q9BXD5,4 (2),19.09,---,1.06,,N-acetylneuraminate lyase OS=Homo sapiens GN=NPL PE=1 SV=1,7.92E+03,8.13E+03,8.42E+03
+B4DTX5,4 (4),18.97,---,1.15,1,"cDNA FLJ60072_ highly similar to Homo sapiens sorbin and SH3domain containing 1 (SORBS1)_ transcript variant 6_ mRNAOS=Homo sapiens PE=2 SV=1",9.90E+04,9.43E+04,1.08E+05
+D3DUC1,4 (3),18.96,---,1.13,,"Zinc finger protein 263_ isoform CRA_a OS=Homo sapiensGN=ZNF263 PE=4 SV=1",1.84E+04,2.08E+04,2.01E+04
+Q9P2Q2,4 (3),18.94,---,1.23,,"FERM domain-containing protein 4A OS=Homo sapiens GN=FRMD4APE=1 SV=3",3.33E+04,2.78E+04,3.42E+04
+A4D0V7,4 (2),18.91,---,1.1,,"Cadherin-like and PC-esterase domain-containing protein 1OS=Homo sapiens GN=CPED1 PE=2 SV=1",1.35E+04,1.48E+04,1.45E+04
+H0Y7R9,4 (2),18.9,---,1.07,,"Cadherin EGF LAG seven-pass G-type receptor 1 (Fragment)OS=Homo sapiens GN=CELSR1 PE=1 SV=1",6.40E+03,5.95E+03,6.11E+03
+O60568,4 (4),18.82,---,1.01,,"Procollagen-lysine_2-oxoglutarate 5-dioxygenase 3 OS=Homosapiens GN=PLOD3 PE=1 SV=1",2.61E+04,2.64E+04,2.62E+04
+D9ZGF8,5 (4),18.78,---,1.12,,"Rho-associated protein kinase OS=Homo sapiens GN=ROCK1 PE=3SV=1",9.45E+04,8.74E+04,9.79E+04
+A0A0G2JL54,4 (2),18.76,---,1.29,,Complement C4-B OS=Homo sapiens GN=C4B_2 PE=1 SV=1,5.72E+04,7.32E+04,5.69E+04
+A0A024R9Q4,4 (4),18.6,---,1.03,,"p21(CDKN1A)-activated kinase 6_ isoform CRA_a OS=Homo sapiensGN=PAK6 PE=4 SV=1",6.77E+04,6.91E+04,7.00E+04
+P78314,4 (3),18.56,---,1.15,1,"SH3 domain-binding protein 2 OS=Homo sapiens GN=SH3BP2 PE=1SV=2",1.19E+05,1.11E+05,1.03E+05
+Q14432,4 (1),18.53,---,3.83,1,"cGMP-inhibited 3'_5'-cyclic phosphodiesterase A OS=Homo sapiensGN=PDE3A PE=1 SV=3",3.07E+04,2.14E+04,8.21E+04
+Q9UKX2,5 (0),18.5,---,---,,Myosin-2 OS=Homo sapiens GN=MYH2 PE=1 SV=1,---,---,---
+A6NM62,4 (3),18.46,---,1.66,,"Leucine-rich repeat-containing protein 53 OS=Homo sapiensGN=LRRC53 PE=4 SV=2",9.56E+04,1.39E+05,1.59E+05
+P11055,5 (1),18.45,---,1.12,,Myosin-3 OS=Homo sapiens GN=MYH3 PE=1 SV=3,6.30E+03,7.07E+03,6.65E+03
+B4DLD8,4 (2),18.34,---,1.3,,"cDNA FLJ59295_ highly similar to Chromodomain-helicase-DNA-binding protein 6 (EC 3.6.1.-) (Fragment) OS=Homo sapiens PE=2SV=1",6.61E+03,8.15E+03,6.29E+03
+K7ER00,4 (4),18.34,---,1.08,1,"Phenylalanine--tRNA ligase alpha subunit OS=Homo sapiensGN=FARSA PE=1 SV=1",4.27E+04,4.61E+04,4.63E+04
+Q9H0E3,4 (3),18.26,---,1.24,,"Histone deacetylase complex subunit SAP130 OS=Homo sapiensGN=SAP130 PE=1 SV=1",2.89E+04,2.66E+04,3.30E+04
+H3BMQ0,4 (0),18.23,---,---,,Tuberin OS=Homo sapiens GN=TSC2 PE=1 SV=1,---,---,---
+Q9Y5F8,4 (4),17.98,---,1.05,,"Protocadherin gamma-B7 OS=Homo sapiens GN=PCDHGB7 PE=2SV=1",2.45E+05,2.34E+05,2.38E+05
+A0A024R6H5,4 (4),17.95,---,1.13,,"MutL homolog 3 (E. coli)_ isoform CRA_b OS=Homo sapiensGN=MLH3 PE=4 SV=1",3.18E+04,3.28E+04,2.91E+04
+Q96NW4,5 (5),17.93,---,1.19,,"Ankyrin repeat domain-containing protein 27 OS=Homo sapiensGN=ANKRD27 PE=1 SV=2",2.54E+04,2.73E+04,2.29E+04
+J3KNJ2,4 (3),17.92,---,1.19,,"Eukaryotic translation initiation factor 3 subunit M (Fragment)OS=Homo sapiens GN=EIF3M PE=1 SV=1",1.08E+05,9.51E+04,1.13E+05
+A0A024R8G5,4 (3),17.92,---,1.38,1,"Glutamate receptor_ ionotropic_ N-methyl D-aspartate 1_ isoformCRA_c OS=Homo sapiens GN=GRIN1 PE=3 SV=1",5.12E+04,5.51E+04,3.99E+04
+A6NEM2,4 (2),17.9,---,1.19,,Host cell factor 1 OS=Homo sapiens GN=HCFC1 PE=1 SV=2,1.15E+05,1.37E+05,1.26E+05
+P54762,4 (3),17.88,---,1.17,,Ephrin type-B receptor 1 OS=Homo sapiens GN=EPHB1 PE=1 SV=1,4.11E+04,4.18E+04,4.81E+04
+B7WPN9,4 (3),17.88,---,1.27,1,"Cation-transporting ATPase OS=Homo sapiens GN=ATP13A4 PE=1SV=1",1.61E+04,1.26E+04,1.48E+04
+H0Y8C9,4 (4),17.82,---,1.39,,"ATP-binding cassette sub-family A member 2 (Fragment) OS=Homosapiens GN=ABCA2 PE=1 SV=1",4.34E+04,6.04E+04,4.37E+04
+O15399,4 (4),17.8,---,1.2,,"Glutamate receptor ionotropic_ NMDA 2D OS=Homo sapiensGN=GRIN2D PE=1 SV=2",6.00E+04,6.11E+04,7.21E+04
+O60500,4 (4),17.71,---,1.19,,Nephrin OS=Homo sapiens GN=NPHS1 PE=1 SV=1,3.73E+04,4.45E+04,4.06E+04
+D3DRH1,4 (3),17.69,---,1.13,,"Dedicator of cytokinesis 8_ isoform CRA_a OS=Homo sapiensGN=DOCK8 PE=3 SV=1",3.82E+04,3.39E+04,3.62E+04
+Q96AE7,4 (3),17.64,---,1.21,,"Tetratricopeptide repeat protein 17 OS=Homo sapiens GN=TTC17PE=1 SV=1",7.93E+05,9.26E+05,9.62E+05
+Q9Y5F3,4 (4),17.59,---,1.18,1,Protocadherin beta-1 OS=Homo sapiens GN=PCDHB1 PE=2 SV=2,2.58E+04,3.04E+04,2.57E+04
+A0A087X208,4 (1),17.58,---,1.17,1,Agrin OS=Homo sapiens GN=AGRN PE=1 SV=1,5.23E+04,4.48E+04,5.14E+04
+Q9H7Z3,4 (3),17.57,---,1.24,1,Protein NRDE2 homolog OS=Homo sapiens GN=NRDE2 PE=1 SV=3,9.08E+04,1.12E+05,9.77E+04
+A0A024R229,4 (3),17.56,---,1.28,1,"Transmembrane protein 2_ isoform CRA_b OS=Homo sapiensGN=TMEM2 PE=4 SV=1",2.49E+04,2.39E+04,3.06E+04
+A0A0A0MR42,4 (2),17.55,---,1.29,,"Centrosomal protein of 192 kDa OS=Homo sapiens GN=CEP192PE=1 SV=1",6.82E+03,8.14E+03,8.82E+03
+O75081,4 (3),17.54,---,1.19,,Protein CBFA2T3 OS=Homo sapiens GN=CBFA2T3 PE=1 SV=2,7.64E+03,8.48E+03,7.11E+03
+D3DQT9,4 (4),17.53,---,1.08,,"Dynein heavy chain domain 1_ isoform CRA_b OS=Homo sapiensGN=DNHD1 PE=4 SV=1",4.50E+04,4.21E+04,4.18E+04
+P31327,5 (3),17.49,---,1.28,,"Carbamoyl-phosphate synthase [ammonia]_ mitochondrialOS=Homo sapiens GN=CPS1 PE=1 SV=2",6.24E+03,6.49E+03,5.06E+03
+A0A140T9S5,4 (4),17.49,---,1.11,,"von Willebrand factor A domain-containing protein 7 OS=Homosapiens GN=VWA7 PE=1 SV=1",1.88E+04,1.80E+04,1.69E+04
+P02452,4 (0),17.4,---,---,,Collagen alpha-1(I) chain OS=Homo sapiens GN=COL1A1 PE=1 SV=5,---,---,---
+A0A087X1C5,4 (4),17.4,---,1.45,,"Putative cytochrome P450 2D7 OS=Homo sapiens GN=CYP2D7 PE=5SV=1",8.42E+03,8.75E+03,6.02E+03
+P59045,4 (4),17.25,---,1.12,,"NACHT_ LRR and PYD domains-containing protein 11 OS=Homosapiens GN=NLRP11 PE=2 SV=2",7.68E+04,8.16E+04,7.26E+04
+B9EH95,4 (3),17.23,---,1.1,1,"Armadillo repeat gene deletes in velocardiofacial syndromeOS=Homo sapiens GN=ARVCF PE=2 SV=1",2.85E+04,2.58E+04,2.75E+04
+Q75QN2,4 (3),17.2,---,1.04,,"Integrator complex subunit 8 OS=Homo sapiens GN=INTS8 PE=1SV=1",3.53E+04,3.40E+04,3.48E+04
+E7EMF1,4 (1),17.19,---,2.82,,Integrin alpha-2 OS=Homo sapiens GN=ITGA2 PE=1 SV=1,1.16E+04,9.84E+03,2.77E+04
+O75197,4 (3),17.18,---,1.27,,"Low-density lipoprotein receptor-related protein 5 OS=Homosapiens GN=LRP5 PE=1 SV=2",6.95E+03,7.48E+03,5.90E+03
+Q17RH5,4 (3),17.14,---,1.12,1,RAPGEF2 protein OS=Homo sapiens GN=RAPGEF2 PE=2 SV=1,1.46E+04,1.50E+04,1.64E+04
+Q16720,4 (2),17.14,---,1.03,,"Plasma membrane calcium-transporting ATPase 3 OS=Homosapiens GN=ATP2B3 PE=1 SV=3",4.31E+03,4.46E+03,4.38E+03
+A0A0J9YXN7,4 (3),17.13,---,1.08,1,Perilipin-4 OS=Homo sapiens GN=PLIN4 PE=1 SV=1,5.61E+04,6.08E+04,5.96E+04
+Q6IMN6,4 (4),17.12,---,1.06,,Caprin-2 OS=Homo sapiens GN=CAPRIN2 PE=1 SV=1,4.64E+04,4.55E+04,4.37E+04
+Q5SYE7,4 (3),17.09,---,1.05,1,NHS-like protein 1 OS=Homo sapiens GN=NHSL1 PE=1 SV=2,5.73E+04,5.47E+04,5.69E+04
+Q9Y5Z1,4 (1),17.05,---,1.07,1,Nebulin (Fragment) OS=Homo sapiens GN=NEB PE=4 SV=1,6.35E+03,6.26E+03,6.67E+03
+Q96RD9,5 (5),17.02,---,1.04,,Fc receptor-like protein 5 OS=Homo sapiens GN=FCRL5 PE=1 SV=3,3.31E+05,3.43E+05,3.32E+05
+D3DVA5,4 (3),16.85,---,1.1,,"Rho/rac guanine nucleotide exchange factor (GEF) 2_ isoformCRA_a OS=Homo sapiens GN=ARHGEF2 PE=4 SV=1",1.20E+04,1.23E+04,1.11E+04
+Q86TC9,5 (3),16.68,---,1.12,,Myopalladin OS=Homo sapiens GN=MYPN PE=1 SV=2,5.06E+04,5.44E+04,4.85E+04
+Q9H3N8,4 (3),16.62,---,1.36,1,Histamine H4 receptor OS=Homo sapiens GN=HRH4 PE=1 SV=2,1.54E+04,1.42E+04,1.94E+04
+Q6F5E8,4 (4),16.56,---,1.11,,"Capping protein_ Arp2/3 and myosin-I linker protein 2 OS=Homosapiens GN=CARMIL2 PE=1 SV=2",3.92E+04,3.74E+04,4.16E+04
+B4DIT2,4 (4),16.54,---,1.94,,"cDNA FLJ60067_ highly similar to Oligophrenin 1 OS=Homo sapiensPE=2 SV=1",2.99E+04,2.63E+04,5.09E+04
+B4DH29,4 (2),16.53,---,1.24,1,"DNA-directed RNA polymerase subunit beta OS=Homo sapiens PE=2SV=1",1.25E+04,1.43E+04,1.16E+04
+Q2KJY2,6 (5),16.41,---,1.18,1,"Kinesin-like protein KIF26B OS=Homo sapiens GN=KIF26B PE=2SV=1",3.39E+04,4.00E+04,3.58E+04
+A0A0D9SF60,4 (2),16.41,---,1.18,,Plakophilin-4 OS=Homo sapiens GN=PKP4 PE=1 SV=1,3.13E+03,3.34E+03,2.82E+03
+Q9HCD6,4 (2),16.31,---,1.19,,Protein TANC2 OS=Homo sapiens GN=TANC2 PE=1 SV=3,7.18E+04,6.03E+04,6.36E+04
+A0A024R2N6,4 (3),16.29,---,1.13,,"Natural killer-tumor recognition sequence_ isoform CRA_aOS=Homo sapiens GN=NKTR PE=4 SV=1",2.16E+04,2.43E+04,2.29E+04
+Q9Y666,4 (4),16.29,---,1.17,1,"Solute carrier family 12 member 7 OS=Homo sapiens GN=SLC12A7PE=1 SV=3",1.80E+04,1.71E+04,2.01E+04
+A6BM72,4 (2),16.22,---,1.11,1,"Multiple epidermal growth factor-like domains protein 11OS=Homo sapiens GN=MEGF11 PE=2 SV=3",8.52E+04,8.71E+04,7.82E+04
+Q9H792,4 (4),16.14,---,1.12,1,"Pseudopodium-enriched atypical kinase 1 OS=Homo sapiensGN=PEAK1 PE=1 SV=4",3.15E+04,2.82E+04,3.15E+04
+Q07617,4 (4),16.1,---,1.1,,"Sperm-associated antigen 1 OS=Homo sapiens GN=SPAG1 PE=1SV=3",5.04E+04,5.09E+04,5.54E+04
+H0Y2S9,4 (1),16.09,---,3.72,1,"Myosin phosphatase Rho-interacting protein (Fragment) OS=Homosapiens GN=MPRIP PE=1 SV=3",7.39E+04,6.04E+04,2.25E+05
+B4E2H5,4 (4),16.03,---,1.17,,"cDNA FLJ58741_ highly similar to JmjC domain-containing histonedemethylation protein 2A (EC 1.14.11.-) OS=Homo sapiens PE=2SV=1",1.46E+04,1.68E+04,1.43E+04
+A8KAB1,4 (2),15.99,---,1.69,,"cDNA FLJ78685_ highly similar to Homo sapiens myosin bindingprotein C_ slow type (MYBPC1)_ transcript variant 2_ mRNAOS=Homo sapiens PE=2 SV=1",7.45E+03,5.88E+03,9.92E+03
+Q7Z340,4 (4),15.96,---,1.3,,Zinc finger protein 551 OS=Homo sapiens GN=ZNF551 PE=1 SV=3,1.29E+04,1.68E+04,1.58E+04
+P59510,4 (2),15.64,---,1.25,1,"A disintegrin and metalloproteinase with thrombospondin motifs20 OS=Homo sapiens GN=ADAMTS20 PE=2 SV=2",3.78E+03,3.69E+03,4.61E+03
+O15015,4 (3),15.58,---,1.15,1,Zinc finger protein 646 OS=Homo sapiens GN=ZNF646 PE=1 SV=1,1.80E+04,1.91E+04,2.06E+04
+A0A024R2M8,4 (4),15.54,---,1.16,1,"Xeroderma pigmentosum_ complementation group C_ isoformCRA_a OS=Homo sapiens GN=XPC PE=4 SV=1",2.53E+04,2.29E+04,2.65E+04
+A0A024RDV7,3 (2),15.53,---,1.13,1,Importin subunit alpha OS=Homo sapiens GN=KPNA3 PE=3 SV=1,5.04E+04,5.67E+04,5.01E+04
+P52179,3 (2),15.45,---,1.54,,Myomesin-1 OS=Homo sapiens GN=MYOM1 PE=1 SV=2,6.82E+03,6.92E+03,4.50E+03
+Q5JW45,3 (2),15.38,---,1.04,,Myosin-7B (Fragment) OS=Homo sapiens GN=MYH7B PE=1 SV=1,2.30E+05,2.39E+05,2.30E+05
+Q6ZSY0,3 (3),15.3,---,2.07,1,"cDNA FLJ45137 fis_ clone BRAWH3038827_ highly similar to Homosapiens leucine-zipper-like transcriptional regulator_ 1 (LZTR1)OS=Homo sapiens PE=2 SV=1",9.63E+03,8.78E+03,1.82E+04
+D3DUP2,4 (2),15.28,---,1.11,,"WNK lysine deficient protein kinase 1_ isoform CRA_d OS=Homosapiens GN=WNK1 PE=4 SV=1",3.05E+04,3.39E+04,3.05E+04
+P14784,3 (1),15.24,---,1.18,,"Interleukin-2 receptor subunit beta OS=Homo sapiens GN=IL2RBPE=1 SV=1",3.73E+04,4.42E+04,4.20E+04
+B4DIF3,3 (2),15.17,---,1.75,,"cDNA FLJ59282_ highly similar to Glutamate receptor-interactingprotein 1 (Fragment) OS=Homo sapiens PE=2 SV=1",2.68E+04,4.29E+04,4.69E+04
+Q6P2D8,3 (2),15.13,---,1.04,,"X-ray radiation resistance-associated protein 1 OS=Homo sapiensGN=XRRA1 PE=2 SV=2",3.25E+04,3.14E+04,3.18E+04
+A0A024R8J3,3 (1),14.95,---,1.28,,"Solute carrier family 16 (Monocarboxylic acid transporters)_member 6_ isoform CRA_a OS=Homo sapiens GN=SLC16A6 PE=4SV=1",4.93E+04,5.20E+04,4.07E+04
+B3KP18,3 (2),14.9,---,1.19,,"cDNA FLJ30946 fis_ clone FEBRA2007622_ highly similar to RAD50-interacting protein 1 OS=Homo sapiens PE=2 SV=1",1.11E+04,1.32E+04,1.26E+04
+Q14896,4 (2),14.86,---,1.07,1,"Myosin-binding protein C_ cardiac-type OS=Homo sapiensGN=MYBPC3 PE=1 SV=4",6.01E+04,6.40E+04,6.02E+04
+Q8N6G6,5 (4),14.84,---,1.13,,ADAMTS-like protein 1 OS=Homo sapiens GN=ADAMTSL1 PE=1 SV=4,5.34E+03,4.95E+03,4.74E+03
+B4E0G0,3 (2),14.81,---,1.13,,"cDNA FLJ61513_ highly similar to DNA repair protein RAD51homolog 3 OS=Homo sapiens PE=2 SV=1",1.19E+04,1.05E+04,1.05E+04
+B9A018,3 (1),14.79,---,1.11,1,"U4/U6.U5 tri-snRNP-associated protein 2 OS=Homo sapiensGN=USP39 PE=1 SV=1",6.90E+03,6.41E+03,6.19E+03
+F5GXT3,3 (2),14.74,---,2.43,,Anoctamin OS=Homo sapiens GN=ANO2 PE=1 SV=2,1.62E+04,1.56E+04,3.79E+04
+G3V258,3 (3),14.66,---,1.13,,Adenylate cyclase type 4 OS=Homo sapiens GN=ADCY4 PE=4 SV=1,7.35E+03,8.04E+03,7.13E+03
+O00519,3 (2),14.56,---,1.07,,"Fatty-acid amide hydrolase 1 OS=Homo sapiens GN=FAAH PE=1SV=2",5.76E+04,5.53E+04,5.89E+04
+B7ZLK1,3 (3),14.53,---,1.63,,KIAA0528 protein OS=Homo sapiens GN=KIAA0528 PE=2 SV=1,4.09E+04,4.01E+04,6.53E+04
+P55287,3 (2),14.42,---,1.21,,Cadherin-11 OS=Homo sapiens GN=CDH11 PE=2 SV=2,3.44E+04,3.95E+04,4.16E+04
+E5RFN6,3 (2),14.39,---,1.26,,"ATP-binding cassette sub-family A member 10 OS=Homo sapiensGN=ABCA10 PE=1 SV=1",3.25E+04,3.12E+04,2.58E+04
+A0A087WU80,3 (2),14.38,---,1.11,,"Tumor necrosis factor alpha-induced protein 3 OS=Homo sapiensGN=TNFAIP3 PE=1 SV=1",6.92E+04,6.52E+04,7.21E+04
+Q76MJ5,4 (2),14.36,---,1.14,,"Serine/threonine-protein kinase/endoribonuclease IRE2 OS=Homosapiens GN=ERN2 PE=1 SV=4",2.74E+04,3.13E+04,3.04E+04
+A0A024R2K4,3 (3),14.35,---,1.78,,"Leucine rich repeat (In FLII) interacting protein 2_ isoform CRA_bOS=Homo sapiens GN=LRRFIP2 PE=4 SV=1",2.33E+04,2.09E+04,3.73E+04
+Q6ULP2,3 (3),14.31,---,1.04,1,Aftiphilin OS=Homo sapiens GN=AFTPH PE=1 SV=2,9.39E+03,9.81E+03,9.79E+03
+A0A024R2K6,3 (2),14.31,---,1.21,,"Calcium-transporting ATPase OS=Homo sapiens GN=ATP2B2 PE=3SV=1",1.79E+04,1.84E+04,2.16E+04
+B7ZL06,3 (2),14.31,---,1.09,,SIGLEC10 protein OS=Homo sapiens GN=SIGLEC10 PE=2 SV=1,3.92E+04,4.10E+04,3.76E+04
+Q15572,3 (1),14.28,---,1.36,,"TATA box-binding protein-associated factor RNA polymerase Isubunit C OS=Homo sapiens GN=TAF1C PE=1 SV=2",7.75E+03,5.69E+03,7.49E+03
+Q8TD20,3 (2),14.27,---,1.21,,"Solute carrier family 2_ facilitated glucose transporter member 12OS=Homo sapiens GN=SLC2A12 PE=2 SV=1",2.49E+04,3.01E+04,2.59E+04
+H0YI08,3 (3),14.27,---,1.04,1,Protein MRVI1 OS=Homo sapiens GN=MRVI1 PE=1 SV=1,1.33E+04,1.32E+04,1.37E+04
+Q00653,3 (2),14.16,---,1.06,,"Nuclear factor NF-kappa-B p100 subunit OS=Homo sapiensGN=NFKB2 PE=1 SV=4",4.97E+04,5.03E+04,5.24E+04
+B4DQY2,3 (1),14.12,---,1.16,,MICOS complex subunit MIC60 OS=Homo sapiens PE=2 SV=1,2.73E+04,2.64E+04,2.34E+04
+B1ANR0,3 (3),14.09,---,1.35,1,"Polyadenylate-binding protein OS=Homo sapiens GN=PABPC4 PE=1SV=1",1.49E+04,1.29E+04,1.74E+04
+H0Y659,3 (1),14.08,---,1.32,,"E3 ubiquitin-protein ligase HUWE1 (Fragment) OS=Homo sapiensGN=HUWE1 PE=1 SV=1",2.41E+03,1.83E+03,2.22E+03
+Q5T6C5,3 (2),14.07,---,1.33,,Ataxin-7-like protein 2 OS=Homo sapiens GN=ATXN7L2 PE=1 SV=1,5.04E+04,5.37E+04,4.04E+04
+O43347,4 (4),14.06,---,1.34,,"RNA-binding protein Musashi homolog 1 OS=Homo sapiens GN=MSI1PE=1 SV=1",1.98E+04,2.65E+04,2.52E+04
+Q86Y37,3 (3),14.03,---,1.13,,"CDK2-associated and cullin domain-containing protein 1 OS=Homosapiens GN=CACUL1 PE=1 SV=1",7.68E+04,7.43E+04,8.42E+04
+Q9UPQ9,3 (2),13.99,---,1.96,,"Trinucleotide repeat-containing gene 6B protein OS=Homo sapiensGN=TNRC6B PE=1 SV=4",3.83E+04,3.47E+04,1.96E+04
+B2RDR6,3 (3),13.98,---,1.13,,Tyrosine-protein kinase OS=Homo sapiens PE=2 SV=1,4.31E+04,3.81E+04,4.07E+04
+P17927,3 (0),13.97,---,---,,Complement receptor type 1 OS=Homo sapiens GN=CR1 PE=1 SV=3,---,---,---
+B4DVM5,3 (2),13.95,---,1.48,,"cDNA FLJ60907_ highly similar to WD repeat protein 24 OS=Homosapiens PE=2 SV=1",5.07E+04,3.42E+04,4.18E+04
+Q7RTY7,3 (2),13.95,---,1.12,,Ovochymase-1 OS=Homo sapiens GN=OVCH1 PE=2 SV=2,2.51E+04,2.57E+04,2.81E+04
+A0A024R1I2,3 (1),13.92,---,1.62,,"Myotubularin related protein 3_ isoform CRA_d OS=Homo sapiensGN=MTMR3 PE=3 SV=1",8.28E+02,8.55E+02,5.28E+02
+B3KWQ9,3 (1),13.91,---,2,,"cDNA FLJ43613 fis_ clone SPLEN2015679_ highly similar to TRAF3-interacting JNK-activating modulator (Fragment) OS=Homo sapiensPE=2 SV=1",7.16E+03,5.31E+03,3.58E+03
+B2R8Z8,3 (3),13.9,---,1.26,,"cDNA_ FLJ94136_ highly similar to Homo sapiens synaptotagminbinding_ cytoplasmic RNA interacting protein (SYNCRIP)_ mRNAOS=Homo sapiens PE=2 SV=1",3.63E+05,4.40E+05,3.50E+05
+A0A024R6W4,3 (3),13.88,---,1.12,,"Lin-10 homolog (C. elegans)_ isoform CRA_b OS=Homo sapiensGN=LIN10 PE=4 SV=1",9.53E+03,9.32E+03,8.52E+03
+A0A0D9SFB1,3 (2),13.82,---,1.4,,Dynamin-1 OS=Homo sapiens GN=DNM1 PE=1 SV=1,1.42E+04,1.72E+04,1.23E+04
+Q13683,3 (2),13.8,---,1.32,1,Integrin alpha-7 OS=Homo sapiens GN=ITGA7 PE=1 SV=3,1.10E+04,8.33E+03,8.86E+03
+A8K1T7,3 (1),13.73,---,1.07,,"cDNA FLJ75600_ highly similar to Homo sapiens cytochrome P450_family 2_ subfamily U_ polypeptide 1(CYP2U1)_ mRNA OS=Homosapiens PE=2 SV=1",1.77E+05,1.65E+05,1.67E+05
+B2R825,3 (3),13.69,---,1.33,,Alpha-1_4 glucan phosphorylase OS=Homo sapiens PE=2 SV=1,3.56E+04,2.68E+04,3.21E+04
+A0A024R0F1,3 (3),13.63,---,1.22,,"Transcription termination factor_ RNA polymerase II_ isoformCRA_a OS=Homo sapiens GN=TTF2 PE=4 SV=1",2.80E+04,2.30E+04,2.61E+04
+V9H1F4,3 (3),13.63,---,1.3,,"Endogenous retrovirus ERV9 protein OS=Homo sapiensGN=endogenous retrovirus ERV9 PE=2 SV=1",1.40E+04,1.52E+04,1.82E+04
+Q9Y2G1,3 (3),13.58,---,1.63,,Myelin regulatory factor OS=Homo sapiens GN=MYRF PE=1 SV=3,1.19E+04,1.42E+04,8.73E+03
+Q58EX2,3 (1),13.57,---,2.08,,Protein sidekick-2 OS=Homo sapiens GN=SDK2 PE=1 SV=3,7.44E+03,3.58E+03,6.10E+03
+A0A0C4DH07,3 (3),13.52,---,1.12,1,"Latent-transforming growth factor beta-binding protein 4OS=Homo sapiens GN=LTBP4 PE=1 SV=1",1.24E+04,1.22E+04,1.36E+04
+H7C269,3 (3),13.52,---,1.17,,"Trinucleotide repeat-containing gene 6A protein (Fragment)OS=Homo sapiens GN=TNRC6A PE=1 SV=1",9.53E+03,1.11E+04,9.78E+03
+A4QPE1,3 (3),13.51,---,1.04,,ENOX2 protein (Fragment) OS=Homo sapiens GN=ENOX2 PE=2 SV=1,6.96E+03,6.70E+03,6.70E+03
+B4DY51,3 (3),13.49,---,1.02,,"cDNA FLJ55546_ highly similar to Protein GPR89A OS=Homosapiens PE=2 SV=1",2.39E+04,2.42E+04,2.38E+04
+A7E228,3 (3),13.46,---,1.09,,ZNF536 protein OS=Homo sapiens GN=ZNF536 PE=2 SV=1,6.26E+04,6.52E+04,6.82E+04
+P28223,3 (2),13.46,---,1.04,1,"5-hydroxytryptamine receptor 2A OS=Homo sapiens GN=HTR2APE=1 SV=2",1.42E+05,1.42E+05,1.48E+05
+Q9NR71,3 (3),13.45,---,1.38,,Neutral ceramidase OS=Homo sapiens GN=ASAH2 PE=1 SV=2,8.81E+03,8.23E+03,6.36E+03
+Q86T13,3 (2),13.44,---,1.21,,"C-type lectin domain family 14 member A OS=Homo sapiensGN=CLEC14A PE=1 SV=1",2.67E+04,3.19E+04,3.23E+04
+Q8N1W1,3 (3),13.43,---,1.06,1,"Rho guanine nucleotide exchange factor 28 OS=Homo sapiensGN=ARHGEF28 PE=1 SV=3",3.92E+04,4.18E+04,4.13E+04
+Q5T2E6,3 (3),13.43,---,1.05,,"UPF0668 protein C10orf76 OS=Homo sapiens GN=C10orf76 PE=1SV=1",1.40E+05,1.46E+05,1.46E+05
+Q14696,3 (2),13.35,---,1.2,,LDLR chaperone MESD OS=Homo sapiens GN=MESDC2 PE=1 SV=2,5.16E+04,4.32E+04,5.18E+04
+A8K2F4,3 (3),13.34,---,1.12,1,cDNA FLJ75620 OS=Homo sapiens PE=2 SV=1,1.25E+04,1.16E+04,1.30E+04
+Q8TDC3,3 (2),13.3,---,1.84,,"Serine/threonine-protein kinase BRSK1 OS=Homo sapiensGN=BRSK1 PE=1 SV=2",4.55E+04,4.59E+04,8.37E+04
+Q5T0N1,3 (2),13.23,---,1.11,,"Cilia- and flagella-associated protein 70 OS=Homo sapiensGN=CFAP70 PE=2 SV=3",3.86E+04,3.94E+04,4.27E+04
+Q05BV3,3 (3),13.22,---,1.08,,"Echinoderm microtubule-associated protein-like 5 OS=Homosapiens GN=EML5 PE=2 SV=3",7.76E+03,7.64E+03,7.17E+03
+O15541,3 (2),13.22,---,1.28,,"RING finger protein 113A OS=Homo sapiens GN=RNF113A PE=1SV=1",9.56E+03,8.16E+03,1.04E+04
+Q9Y468,3 (3),13.21,---,1.12,,"Lethal(3)malignant brain tumor-like protein 1 OS=Homo sapiensGN=L3MBTL1 PE=1 SV=3",2.96E+04,3.32E+04,3.25E+04
+O00629,3 (2),13.2,---,1.06,,Importin subunit alpha-3 OS=Homo sapiens GN=KPNA4 PE=1 SV=1,5.11E+04,5.41E+04,5.21E+04
+Q1MSJ5,3 (2),13.19,---,1.88,,"Centrosome and spindle pole-associated protein 1 OS=Homosapiens GN=CSPP1 PE=1 SV=4",3.03E+04,2.53E+04,1.61E+04
+A0A1B0GVL5,3 (1),13.18,---,1.22,,Uncharacterized protein (Fragment) OS=Homo sapiens PE=4 SV=1,9.05E+04,7.90E+04,9.63E+04
+G3V256,3 (1),13.08,---,1.36,,"Zinc finger CCCH domain-containing protein 14 OS=Homo sapiensGN=ZC3H14 PE=1 SV=1",9.24E+03,6.96E+03,9.47E+03
+A0A087WXZ7,3 (3),13.08,---,1.43,,"HEAT repeat-containing protein 6 OS=Homo sapiens GN=HEATR6PE=1 SV=1",1.13E+04,1.17E+04,8.22E+03
+F8WBX2,3 (1),13.07,---,1.08,,"Transmembrane protease serine 12 OS=Homo sapiensGN=TMPRSS12 PE=1 SV=1",1.08E+04,1.07E+04,9.95E+03
+A0A024RD21,3 (3),13.04,---,1.25,,"ATP-binding cassette_ sub-family C (CFTR/MRP)_ member 10_isoform CRA_b OS=Homo sapiens GN=ABCC10 PE=4 SV=1",7.12E+03,7.42E+03,5.91E+03
+Q15746,3 (0),13,---,---,1,"Myosin light chain kinase_ smooth muscle OS=Homo sapiensGN=MYLK PE=1 SV=4",---,---,---
+A0A0D9SF58,3 (1),13,---,1.15,,"Chromosome transmission fidelity protein 18 homolog OS=Homosapiens GN=CHTF18 PE=1 SV=1",4.51E+05,3.91E+05,4.18E+05
+A0A024R125,3 (2),13,---,1.15,,"Protein kinase_ AMP-activated_ gamma 1 non-catalytic subunit_isoform CRA_a OS=Homo sapiens GN=PRKAG1 PE=4 SV=1",4.06E+04,3.65E+04,4.18E+04
+Q96RT1,3 (3),13,---,1.19,,Erbin OS=Homo sapiens GN=ERBIN PE=1 SV=2,7.95E+03,6.67E+03,7.88E+03
+Q0D2K2,3 (3),13,---,1.2,,Kelch-like protein 30 OS=Homo sapiens GN=KLHL30 PE=2 SV=3,8.18E+03,8.47E+03,7.04E+03
+E7EMB1,3 (3),12.99,---,1.03,,"Switch-associated protein 70 OS=Homo sapiens GN=SWAP70 PE=1SV=1",5.29E+05,5.42E+05,5.39E+05
+Q8IVL6,3 (3),12.98,---,1.2,,Prolyl 3-hydroxylase 3 OS=Homo sapiens GN=P3H3 PE=1 SV=1,2.60E+04,3.13E+04,2.67E+04
+O60245,3 (1),12.98,---,3.12,,Protocadherin-7 OS=Homo sapiens GN=PCDH7 PE=1 SV=2,5.21E+04,6.48E+04,2.08E+04
+B3KUQ8,3 (3),12.86,---,1.15,,Transmembrane channel-like protein OS=Homo sapiens PE=2 SV=1,1.43E+04,1.58E+04,1.36E+04
+G5E9C8,3 (0),12.85,---,---,,Son of sevenless homolog 1 OS=Homo sapiens GN=SOS1 PE=1 SV=1,---,---,---
+Q96EV2,3 (3),12.8,---,1.12,1,RNA-binding protein 33 OS=Homo sapiens GN=RBM33 PE=1 SV=3,7.77E+04,7.06E+04,7.91E+04
+Q6ZWH5,3 (3),12.8,---,1.1,,"Serine/threonine-protein kinase Nek10 OS=Homo sapiensGN=NEK10 PE=2 SV=3",6.36E+04,6.98E+04,6.84E+04
+F8W0U9,3 (1),12.79,---,1.08,,"NACHT domain- and WD repeat-containing protein 1 OS=Homosapiens GN=NWD1 PE=4 SV=1",2.49E+04,2.38E+04,2.58E+04
+A0A024RBC7,3 (1),12.78,---,1.13,,"Calcium-transporting ATPase OS=Homo sapiens GN=ATP2B1 PE=3SV=1",1.55E+04,1.36E+04,1.50E+04
+A3KMQ0,3 (3),12.76,---,1.11,,"FYVE_ RhoGEF and PH domain containing 5 OS=Homo sapiensGN=FGD5 PE=2 SV=1",3.60E+04,3.71E+04,3.99E+04
+A0A0G2JKR7,3 (2),12.75,---,1.11,,"Retinoic acid receptor RXR-beta OS=Homo sapiens GN=RXRB PE=1SV=1",4.66E+04,4.25E+04,4.71E+04
+O43167,3 (3),12.74,---,1.55,,"Zinc finger and BTB domain-containing protein 24 OS=Homosapiens GN=ZBTB24 PE=1 SV=2",1.84E+04,1.73E+04,2.68E+04
+A0A0G2JP53,3 (2),12.68,---,2.08,1,Thyroid peroxidase OS=Homo sapiens GN=TPO PE=1 SV=1,3.42E+03,3.20E+03,6.67E+03
+Q05DH4,3 (2),12.62,---,1.33,,Protein FAM160A1 OS=Homo sapiens GN=FAM160A1 PE=2 SV=2,5.68E+04,6.07E+04,7.54E+04
+Q5XUX0,3 (3),12.57,---,1.09,1,F-box only protein 31 OS=Homo sapiens GN=FBXO31 PE=1 SV=2,7.02E+03,6.48E+03,6.46E+03
+Q9NR16,3 (3),12.54,---,1.04,,"Scavenger receptor cysteine-rich type 1 protein M160 OS=Homosapiens GN=CD163L1 PE=1 SV=2",1.62E+04,1.68E+04,1.68E+04
+Q8TED0,3 (3),12.51,---,1.29,1,"U3 small nucleolar RNA-associated protein 15 homolog OS=Homosapiens GN=UTP15 PE=1 SV=3",9.22E+04,8.34E+04,1.07E+05
+A0A0S2Z5J4,3 (3),12.5,---,1.21,1,"Adaptor-related protein complex 3 beta 1 subunit isoform 1(Fragment) OS=Homo sapiens GN=AP3B1 PE=2 SV=1",7.90E+04,8.07E+04,6.64E+04
+Q8IWV7,3 (3),12.49,---,1.17,,"E3 ubiquitin-protein ligase UBR1 OS=Homo sapiens GN=UBR1 PE=1SV=1",1.22E+04,1.05E+04,1.16E+04
+A0A0A0MS01,3 (2),12.32,---,1.35,1,"T cell receptor gamma variable 10 (non-functional) (Fragment)OS=Homo sapiens GN=TRGV10 PE=4 SV=1",6.52E+03,4.88E+03,6.58E+03
+Q6ZV29,3 (3),12.31,---,1.07,1,"Patatin-like phospholipase domain-containing protein 7 OS=Homosapiens GN=PNPLA7 PE=1 SV=3",3.85E+04,3.77E+04,4.02E+04
+Q08AF3,3 (2),12.31,---,1.34,,Schlafen family member 5 OS=Homo sapiens GN=SLFN5 PE=1 SV=1,1.08E+04,1.13E+04,8.49E+03
+Q9NVH2,3 (3),12.23,---,1.32,1,"Integrator complex subunit 7 OS=Homo sapiens GN=INTS7 PE=1SV=1",4.81E+04,4.58E+04,6.02E+04
+B7Z855,3 (2),12.11,---,1.2,,"cDNA FLJ50427_ highly similar to Ubiquitin carboxyl-terminalhydrolase 7 (EC3.1.2.15) OS=Homo sapiens PE=2 SV=1",1.73E+04,1.44E+04,1.63E+04
+Q9UKP4,3 (2),12.1,---,1.11,1,"A disintegrin and metalloproteinase with thrombospondin motifs 7OS=Homo sapiens GN=ADAMTS7 PE=1 SV=2",1.99E+04,1.80E+04,1.96E+04
+Q8IZC6,3 (1),12.07,---,1.16,,"Collagen alpha-1(XXVII) chain OS=Homo sapiens GN=COL27A1 PE=1SV=1",1.40E+04,1.27E+04,1.47E+04
+P63128,3 (2),12.06,---,1.12,,"Endogenous retrovirus group K member 9 Pol protein OS=Homosapiens GN=ERVK-9 PE=3 SV=3",3.44E+03,3.79E+03,3.86E+03
+P12110,3 (3),12.01,---,1.11,1,"Collagen alpha-2(VI) chain OS=Homo sapiens GN=COL6A2 PE=1SV=4",3.21E+05,3.56E+05,3.43E+05
+Q92834,3 (1),11.96,---,1.28,,"X-linked retinitis pigmentosa GTPase regulator OS=Homo sapiensGN=RPGR PE=1 SV=2",5.40E+03,4.84E+03,6.22E+03
+Q9Y2A7,3 (3),11.91,---,1.09,,Nck-associated protein 1 OS=Homo sapiens GN=NCKAP1 PE=1 SV=1,2.33E+04,2.39E+04,2.53E+04
+C3VPR7,3 (1),11.9,---,1.22,,NLRC3 OS=Homo sapiens GN=NLRC3 PE=2 SV=1,3.11E+04,3.80E+04,3.49E+04
+Q9UK80,3 (2),11.8,---,1.22,,"Ubiquitin carboxyl-terminal hydrolase 21 OS=Homo sapiensGN=USP21 PE=1 SV=1",1.20E+04,1.08E+04,1.32E+04
+Q9P241,3 (2),11.43,---,1.33,,"Probable phospholipid-transporting ATPase VD OS=Homo sapiensGN=ATP10D PE=2 SV=3",8.36E+03,9.71E+03,1.11E+04
+Q9H488,2 (2),11.24,---,1.34,1,"GDP-fucose protein O-fucosyltransferase 1 OS=Homo sapiensGN=POFUT1 PE=1 SV=1",7.83E+03,6.81E+03,5.83E+03
+B4DRM3,3 (2),10.74,---,1.05,,"cDNA FLJ54492_ highly similar to Eukaryotic translation initiationfactor 4B OS=Homo sapiens PE=2 SV=1",3.31E+03,3.48E+03,3.34E+03
+Q4VC12,2 (1),10.55,---,1.16,,"Putative protein MSS51 homolog_ mitochondrial OS=Homo sapiensGN=MSS51 PE=1 SV=2",1.01E+05,1.17E+05,1.02E+05
+Q9Y5Y0,2 (1),10.42,---,1.47,,"Feline leukemia virus subgroup C receptor-related protein 1OS=Homo sapiens GN=FLVCR1 PE=1 SV=1",4.88E+05,5.63E+05,7.19E+05
+A0A0G2JLM7,2 (1),10.4,---,1.24,,"Killer cell immunoglobulin-like receptor 3DL2 OS=Homo sapiensGN=KIR3DL2 PE=4 SV=1",6.55E+03,5.28E+03,5.68E+03
+B3KWQ3,2 (2),10.34,---,1.09,,"cDNA FLJ43573 fis_ clone RECTM2001691_ highly similar to Actin_cytoplasmic 2 OS=Homo sapiens PE=2 SV=1",7.10E+05,7.18E+05,7.76E+05
+A0A024RCC9,2 (1),10.17,---,1.2,1,"Nucleosome assembly protein 1-like 4_ isoform CRA_b OS=Homosapiens GN=NAP1L4 PE=3 SV=1",2.97E+04,2.76E+04,3.32E+04
+A0A024R5N1,2 (2),10.14,---,1.23,,"Purinergic receptor P2Y_ G-protein coupled_ 2_ isoform CRA_aOS=Homo sapiens GN=P2RY2 PE=3 SV=1",7.16E+03,7.84E+03,6.36E+03
+Q8TB52,2 (1),10.09,---,1.11,,F-box only protein 30 OS=Homo sapiens GN=FBXO30 PE=1 SV=3,1.46E+04,1.48E+04,1.33E+04
+F8WCG9,2 (2),10.08,---,1.09,,"Leucine-rich repeat-containing protein 75B OS=Homo sapiensGN=LRRC75B PE=4 SV=1",1.67E+04,1.60E+04,1.75E+04
+A0A024R6N2,2 (2),10.07,---,1.23,,"CDC42 binding protein kinase beta (DMPK-like)_ isoform CRA_aOS=Homo sapiens GN=CDC42BPB PE=3 SV=1",6.97E+03,8.19E+03,6.63E+03
+Q92484,2 (0),10.06,---,---,,"Acid sphingomyelinase-like phosphodiesterase 3a OS=Homosapiens GN=SMPDL3A PE=1 SV=2",---,---,---
+Q9C056,3 (3),10.02,---,1.65,1,"Homeobox protein Nkx-6.2 OS=Homo sapiens GN=NKX6-2 PE=2SV=2",2.85E+04,3.27E+04,1.98E+04
+B7Z5A2,2 (1),10.01,---,1.44,,"cDNA FLJ57759_ moderately similar to Transgelin-2 OS=Homosapiens PE=2 SV=1",3.43E+04,3.75E+04,2.60E+04
+Q70J99,2 (1),9.99,---,1.07,,"Protein unc-13 homolog D OS=Homo sapiens GN=UNC13D PE=1SV=1",2.11E+05,1.97E+05,1.99E+05
+Q16799,3 (3),9.99,---,1.12,1,Reticulon-1 OS=Homo sapiens GN=RTN1 PE=1 SV=1,3.90E+04,3.47E+04,3.78E+04
+A0A0D9SGI1,2 (2),9.92,---,1.05,,"Membrane-associated guanylate kinase_ WW and PDZ domain-containing protein 2 OS=Homo sapiens GN=MAGI2 PE=1 SV=1",7.04E+04,6.74E+04,7.05E+04
+Q9HAW8,3 (2),9.82,---,1.37,1,"UDP-glucuronosyltransferase 1-10 OS=Homo sapiens GN=UGT1A10PE=1 SV=1",4.42E+03,5.61E+03,4.10E+03
+B7Z1V0,2 (2),9.76,---,1.16,,"cDNA FLJ59490_ highly similar to Beta-chimaerin OS=Homo sapiensPE=2 SV=1",7.47E+04,7.70E+04,8.67E+04
+A0A0G2JLG2,2 (2),9.73,---,1.19,1,"IQ motif and SEC7 domain-containing protein 3 (Fragment)OS=Homo sapiens GN=IQSEC3 PE=1 SV=1",1.60E+04,1.90E+04,1.76E+04
+Q9UHP6,2 (2),9.72,---,1.04,,"Radial spoke head 14 homolog OS=Homo sapiens GN=RSPH14 PE=1SV=1",1.23E+04,1.28E+04,1.26E+04
+Q50KX5,2 (2),9.68,---,1.09,,"Taste receptor type 2 (Fragment) OS=Homo sapiensGN=Hosa(Biaka)-T2R4 PE=3 SV=1",1.15E+05,1.25E+05,1.15E+05
+Q9C029,2 (2),9.67,---,1.13,1,"Tripartite motif-containing protein 7 OS=Homo sapiens GN=TRIM7PE=1 SV=2",2.09E+05,2.36E+05,2.30E+05
+Q9BWP8,2 (2),9.67,---,1.04,,Collectin-11 OS=Homo sapiens GN=COLEC11 PE=1 SV=1,1.29E+04,1.24E+04,1.24E+04
+Q14684,3 (2),9.67,---,1.12,,"Ribosomal RNA processing protein 1 homolog B OS=Homo sapiensGN=RRP1B PE=1 SV=3",1.43E+04,1.49E+04,1.59E+04
+B4DXT6,2 (1),9.67,---,1.37,,cDNA FLJ55263 OS=Homo sapiens PE=2 SV=1,1.23E+03,1.36E+03,9.98E+02
+Q96P50,2 (1),9.64,---,1.41,1,"Arf-GAP with coiled-coil_ ANK repeat and PH domain-containingprotein 3 OS=Homo sapiens GN=ACAP3 PE=1 SV=2",3.68E+03,2.60E+03,3.46E+03
+A2RUL8,2 (2),9.64,---,1.3,1,KCNS1 protein OS=Homo sapiens GN=KCNS1 PE=2 SV=1,1.52E+04,1.47E+04,1.90E+04
+G3XAG5,2 (2),9.61,---,1.08,,Chloride channel protein OS=Homo sapiens GN=CLCN4 PE=1 SV=1,1.11E+04,1.13E+04,1.05E+04
+A0A024R8M9,2 (2),9.59,---,1.19,1,"RecQ protein-like 5_ isoform CRA_a OS=Homo sapiens GN=RECQL5PE=4 SV=1",5.75E+03,4.88E+03,5.78E+03
+A0A0J9YVP0,2 (2),9.56,---,1.11,,"E3 ubiquitin-protein ligase HERC2 (Fragment) OS=Homo sapiensGN=HERC2 PE=1 SV=1",1.01E+05,1.03E+05,9.29E+04
+B3KU30,2 (0),9.56,---,---,,"cDNA FLJ39125 fis_ clone NTONG2007034_ highly similar to Homosapiens collagen_ type XXI_ alpha 1 (COL21A1)_ mRNA OS=Homosapiens PE=2 SV=1",---,---,---
+P08514,3 (3),9.54,---,1.1,,Integrin alpha-IIb OS=Homo sapiens GN=ITGA2B PE=1 SV=3,1.50E+04,1.56E+04,1.65E+04
+A0A0A0MSG0,2 (1),9.52,---,1.08,,"WAS/WASL-interacting protein family member 3 OS=Homo sapiensGN=WIPF3 PE=1 SV=1",1.73E+04,1.80E+04,1.87E+04
+Q5TIA1,3 (2),9.51,---,1.06,,Meiosis inhibitor protein 1 OS=Homo sapiens GN=MEI1 PE=2 SV=2,5.98E+04,5.69E+04,6.01E+04
+A0A024R9E9,2 (2),9.5,---,1.22,,"Frizzled homolog 6 (Drosophila)_ isoform CRA_a OS=Homo sapiensGN=FZD6 PE=3 SV=1",1.89E+04,2.00E+04,1.63E+04
+A6NKF1,2 (2),9.5,---,1.12,1,"SAC3 domain-containing protein 1 OS=Homo sapiens GN=SAC3D1PE=1 SV=2",2.16E+04,1.93E+04,2.13E+04
+B4DTK7,2 (1),9.47,---,1.42,,"cDNA FLJ61387_ highly similar to Homo sapiens conserved nuclearprotein NHN1 (NHN1)_ mRNA OS=Homo sapiens PE=2 SV=1",1.88E+04,1.75E+04,1.32E+04
+A0A024R0L5,2 (2),9.45,---,1.09,,"Glycogen synthase kinase 3 alpha_ isoform CRA_a OS=Homosapiens GN=GSK3A PE=3 SV=1",9.39E+04,1.02E+05,9.80E+04
+Q5VTJ3,2 (2),9.44,---,1.04,1,"Kelch domain-containing protein 7A OS=Homo sapiensGN=KLHDC7A PE=1 SV=5",3.67E+04,3.54E+04,3.62E+04
+B3KS94,2 (1),9.43,---,1.09,,"cDNA FLJ35791 fis_ clone TESTI2005743_ highly similar to ZINCFINGER PROTEIN 8 OS=Homo sapiens PE=2 SV=1",8.46E+03,8.26E+03,7.74E+03
+B3KS74,2 (2),9.41,---,1.12,1,"cDNA FLJ35684 fis_ clone SPLEN2019169_ highly similar to DNApolymerase epsilon_ catalytic subunit A OS=Homo sapiens PE=2SV=1",1.02E+04,9.92E+03,1.11E+04
+D6RC52,2 (2),9.4,---,1.11,,"H/ACA ribonucleoprotein complex subunit 2 (Fragment) OS=Homosapiens GN=NHP2 PE=1 SV=1",9.87E+03,1.03E+04,1.10E+04
+H0YFX2,2 (2),9.4,---,1.3,,"DnaJ homolog subfamily B member 13 (Fragment) OS=Homosapiens GN=DNAJB13 PE=1 SV=1",2.75E+04,2.78E+04,2.15E+04
+B2R6N0,2 (2),9.38,---,1.03,,"cDNA_ FLJ93029_ highly similar to Homo sapiens COP9 constitutivephotomorphogenic homolog subunit 2 (Arabidopsis) (COPS2)_mRNA OS=Homo sapiens PE=2 SV=1",7.41E+03,7.66E+03,7.44E+03
+B4YCH1,2 (2),9.36,---,1.24,,"ATP synthase protein 8 (Fragment) OS=Homo sapiens GN=ATP8PE=3 SV=1",3.16E+03,3.79E+03,3.92E+03
+P81408,2 (1),9.35,---,1.25,,Protein FAM189B OS=Homo sapiens GN=FAM189B PE=1 SV=2,2.62E+04,2.82E+04,3.29E+04
+A0A024R657,2 (2),9.33,---,1.08,,"AT rich interactive domain 4A (RBP1-like)_ isoform CRA_cOS=Homo sapiens GN=ARID4A PE=4 SV=1",2.29E+04,2.28E+04,2.46E+04
+Q9BRP1,2 (2),9.33,---,1.12,1,"Programmed cell death protein 2-like OS=Homo sapiensGN=PDCD2L PE=1 SV=1",8.00E+04,8.21E+04,8.93E+04
+Q8TE60,2 (2),9.3,---,1.07,1,"A disintegrin and metalloproteinase with thrombospondin motifs18 OS=Homo sapiens GN=ADAMTS18 PE=1 SV=3",7.02E+04,6.91E+04,7.37E+04
+Q53T07,2 (2),9.25,---,1.09,,"Putative uncharacterized protein LOC91526 (Fragment) OS=Homosapiens GN=LOC91526 PE=4 SV=1",2.27E+04,2.08E+04,2.12E+04
+Q5JY77,2 (2),9.25,---,1.04,,"G-protein coupled receptor-associated sorting protein 1 OS=Homosapiens GN=GPRASP1 PE=1 SV=3",2.46E+04,2.56E+04,2.48E+04
+G3XAK1,2 (1),9.15,---,1.3,,"Hepatocyte growth factor-like protein OS=Homo sapiens GN=MST1PE=1 SV=1",2.81E+04,3.12E+04,2.40E+04
+B7Z5P7,2 (2),9.12,---,1.23,,Leupaxin OS=Homo sapiens GN=LPXN PE=1 SV=1,9.68E+03,1.12E+04,1.19E+04
+P14616,2 (1),9.11,---,1.08,,"Insulin receptor-related protein OS=Homo sapiens GN=INSRR PE=1SV=2",1.07E+04,1.15E+04,1.07E+04
+A0A024RAV2,2 (0),9.1,---,---,,"RecQ protein-like (DNA helicase Q1-like)_ isoform CRA_a OS=Homosapiens GN=RECQL PE=4 SV=1",---,---,---
+A0A087WXZ6,2 (1),9.06,---,1.08,,"High affinity immunoglobulin gamma Fc receptor IB (Fragment)OS=Homo sapiens GN=FCGR1B PE=4 SV=6",6.77E+04,7.34E+04,6.88E+04
+B4DZ87,2 (0),9.03,---,---,,"cDNA FLJ57240_ highly similar to Mitochondrial proteins importreceptor OS=Homo sapiens PE=2 SV=1",---,---,---
+O15482,2 (1),9.03,---,2.97,,"Testis-specific protein TEX28 OS=Homo sapiens GN=TEX28 PE=2SV=1",1.70E+05,1.40E+05,4.16E+05
+A0A024R5U5,2 (1),9,---,1.05,,"ADAM metallopeptidase domain 10_ isoform CRA_b OS=Homosapiens GN=ADAM10 PE=4 SV=1",1.54E+04,1.58E+04,1.62E+04
+Q8IX18,2 (1),8.99,---,1.08,,"Probable ATP-dependent RNA helicase DHX40 OS=Homo sapiensGN=DHX40 PE=1 SV=2",2.01E+04,1.86E+04,1.89E+04
+P08173,2 (1),8.92,---,1.18,,"Muscarinic acetylcholine receptor M4 OS=Homo sapiens GN=CHRM4PE=1 SV=2",1.41E+04,1.54E+04,1.31E+04
+Q14568,2 (1),8.91,---,1.37,,"Heat shock protein HSP 90-alpha A2 OS=Homo sapiensGN=HSP90AA2P PE=1 SV=2",1.55E+04,1.37E+04,1.88E+04
+A0A140TA01,2 (1),8.88,---,1.34,,PHD finger protein 1 OS=Homo sapiens GN=PHF1 PE=1 SV=1,7.02E+03,5.25E+03,6.44E+03
+D6RAS1,2 (2),8.85,---,1.12,,"E3 SUMO-protein ligase ZNF451 (Fragment) OS=Homo sapiensGN=ZNF451 PE=1 SV=1",4.41E+04,3.96E+04,4.42E+04
+Q9HBM0,2 (1),8.82,---,1.38,,Vezatin OS=Homo sapiens GN=VEZT PE=1 SV=3,1.91E+04,2.65E+04,2.36E+04
+A0A024R6W0,2 (2),8.75,---,1.76,,Aspartate aminotransferase OS=Homo sapiens GN=GOT2 PE=4 SV=1,1.64E+04,1.64E+04,2.89E+04
+A0A0A8K9B1,2 (2),8.75,---,1.87,1,"Up-regulated in lung cancer 6 OS=Homo sapiens GN=URLC6 PE=2SV=1",1.56E+04,1.38E+04,2.58E+04
+Q96MT7,2 (2),8.74,---,1.12,,"Cilia- and flagella-associated protein 44 OS=Homo sapiensGN=CFAP44 PE=1 SV=1",9.33E+03,9.06E+03,1.01E+04
+A0A024R1P7,2 (1),8.74,---,3.65,,"Unc-84 homolog B (C. elegans)_ isoform CRA_b OS=Homo sapiensGN=UNC84B PE=4 SV=1",1.95E+03,2.10E+03,7.11E+03
+A0A024R3X4,2 (1),8.73,---,1.28,,"Heat shock 60kDa protein 1 (Chaperonin)_ isoform CRA_aOS=Homo sapiens GN=HSPD1 PE=2 SV=1",9.43E+03,1.21E+04,1.16E+04
+B2R6L0,2 (0),8.69,---,---,,Tubulin beta chain OS=Homo sapiens PE=2 SV=1,---,---,---
+B4DST2,2 (2),8.66,---,1.17,,"cDNA FLJ54525_ highly similar to Intraflagellar transport 122homolog OS=Homo sapiens PE=2 SV=1",1.54E+04,1.58E+04,1.80E+04
+A0A0K0K1K3,2 (1),8.62,---,1.25,,"Adenylate cyclase 8 (Brain) OS=Homo sapiens GN=HEL-S-172mPPE=2 SV=1",8.93E+04,7.62E+04,7.14E+04
+Q9HCE9,2 (2),8.61,---,1.1,,Anoctamin-8 OS=Homo sapiens GN=ANO8 PE=1 SV=3,3.61E+04,3.28E+04,3.51E+04
+A0A0A0MRE2,2 (2),8.6,---,1.21,,"Double zinc ribbon and ankyrin repeat-containing protein 1OS=Homo sapiens GN=DZANK1 PE=1 SV=1",3.48E+04,4.23E+04,4.12E+04
+Q2Y0W8,2 (2),8.59,---,1.45,,"Electroneutral sodium bicarbonate exchanger 1 OS=Homo sapiensGN=SLC4A8 PE=1 SV=1",4.61E+03,5.65E+03,3.91E+03
+A0A0S2Z5Z8,2 (1),8.58,---,1.24,,"1-aminocyclopropane-1-carboxylate synthase-like protein (Non-functional) isoform 2 OS=Homo sapiens GN=ACCS PE=2 SV=1",7.41E+03,5.99E+03,6.64E+03
+A1L3A9,2 (2),8.49,---,1.05,,"TBC1 domain family_ member 9B (With GRAM domain) OS=Homosapiens GN=TBC1D9B PE=2 SV=1",5.10E+04,5.13E+04,4.87E+04
+A0A0D9SEY3,2 (1),8.47,---,1.13,,"Potassium channel subfamily T member 1 OS=Homo sapiensGN=KCNT1 PE=4 SV=1",5.23E+04,5.34E+04,4.73E+04
+A0A0A0MSC1,2 (1),8.43,---,1.96,,Adenylate cyclase type 3 OS=Homo sapiens GN=ADCY3 PE=1 SV=1,1.62E+03,2.74E+03,1.40E+03
+Q9P265,2 (0),8.41,---,---,,"Disco-interacting protein 2 homolog B OS=Homo sapiens GN=DIP2BPE=1 SV=3",---,---,---
+B9EGI2,2 (1),8.39,---,1.17,,"Myosin phosphatase Rho interacting protein OS=Homo sapiensGN=MPRIP PE=2 SV=1",8.22E+04,8.71E+04,7.45E+04
+A0A024RDV9,2 (2),8.38,---,1.21,,"Spastic paraplegia 20 isoform 1 OS=Homo sapiens GN=SPG20 PE=2SV=1",6.05E+03,5.65E+03,4.99E+03
+Q69YN4,3 (2),8.35,---,1.27,1,"Protein virilizer homolog OS=Homo sapiens GN=KIAA1429 PE=1SV=2",1.14E+04,1.26E+04,9.95E+03
+Q15884,2 (1),8.34,---,1.31,,Protein FAM189A2 OS=Homo sapiens GN=FAM189A2 PE=1 SV=3,7.58E+04,6.53E+04,8.56E+04
+Q9NSI8,2 (1),8.31,---,1.35,,"SAM domain-containing protein SAMSN-1 OS=Homo sapiensGN=SAMSN1 PE=1 SV=1",1.99E+04,2.69E+04,2.15E+04
+E7EQR6,2 (1),8.31,---,1.14,,"T-complex protein 1 subunit alpha OS=Homo sapiens GN=TCP1PE=1 SV=1",1.25E+04,1.34E+04,1.17E+04
+O95219,2 (2),8.3,---,1.13,,Sorting nexin-4 OS=Homo sapiens GN=SNX4 PE=1 SV=1,3.09E+04,3.44E+04,3.05E+04
+A8K3I0,2 (1),8.3,---,1.03,,"cDNA FLJ78437_ highly similar to Homo sapiens cartilageoligomeric matrix protein (COMP)_ mRNA OS=Homo sapiens PE=2SV=1",3.94E+03,3.83E+03,3.86E+03
+O60508,2 (2),8.23,---,1.97,,"Pre-mRNA-processing factor 17 OS=Homo sapiens GN=CDC40 PE=1SV=1",1.35E+04,1.54E+04,2.65E+04
+Q8IVV2,2 (2),8.21,---,1.46,1,"Lipoxygenase homology domain-containing protein 1 OS=Homosapiens GN=LOXHD1 PE=2 SV=3",2.59E+04,2.41E+04,1.77E+04
+O75911,2 (1),8.18,---,1.13,1,"Short-chain dehydrogenase/reductase 3 OS=Homo sapiensGN=DHRS3 PE=1 SV=2",5.45E+04,6.14E+04,5.71E+04
+Q5JYT7,2 (1),8.15,---,1.17,,"Uncharacterized protein KIAA1755 OS=Homo sapiens GN=KIAA1755PE=2 SV=2",2.74E+04,2.45E+04,2.35E+04
+Q06418,3 (1),8.13,---,1.43,1,"Tyrosine-protein kinase receptor TYRO3 OS=Homo sapiensGN=TYRO3 PE=1 SV=1",1.63E+04,1.84E+04,1.29E+04
+A0A024R1Q0,2 (2),8.08,---,1.48,,"Sterol regulatory element binding transcription factor 2_ isoformCRA_a OS=Homo sapiens GN=SREBF2 PE=4 SV=1",1.49E+05,1.41E+05,2.09E+05
+H7C0U5,2 (2),8.03,---,1.19,,"ATP-binding cassette sub-family A member 13 (Fragment)OS=Homo sapiens GN=ABCA13 PE=1 SV=2",4.21E+03,3.77E+03,3.53E+03
+Q9C0J8,3 (1),8,---,1.06,,"pre-mRNA 3' end processing protein WDR33 OS=Homo sapiensGN=WDR33 PE=1 SV=2",2.57E+03,2.66E+03,2.74E+03
+A0A024R0Z3,2 (2),7.98,---,1.35,,"DEAD (Asp-Glu-Ala-Asp) box polypeptide 23_ isoform CRA_bOS=Homo sapiens GN=DDX23 PE=4 SV=1",8.05E+03,8.39E+03,6.19E+03
+A8KAH2,2 (2),7.96,---,1.25,,"cDNA FLJ78748_ highly similar to Homo sapiens ADAMTS-like 4_mRNA OS=Homo sapiens PE=2 SV=1",1.72E+04,1.76E+04,1.41E+04
+,,,,,,,,,
+Q09428,2 (2),7.92,---,1.16,,"ATP-binding cassette sub-family C member 8 OS=Homo sapiensGN=ABCC8 PE=1 SV=6",1.32E+04,1.53E+04,1.35E+04
+H3BN02,2 (1),7.81,---,1.12,1,Integrin alpha-X OS=Homo sapiens GN=ITGAX PE=1 SV=1,1.84E+04,1.85E+04,1.66E+04
+A0A087WU38,2 (1),7.79,---,1.21,,"Glutamate receptor-interacting protein 2 OS=Homo sapiensGN=GRIP2 PE=1 SV=1",7.02E+03,7.63E+03,6.31E+03
+Q9NQG7,2 (2),7.72,---,1.11,,"Hermansky-Pudlak syndrome 4 protein OS=Homo sapiens GN=HPS4PE=1 SV=2",8.22E+03,8.20E+03,9.07E+03
+Q8TAQ5,2 (1),7.65,---,1.06,,Zinc finger protein 420 OS=Homo sapiens GN=ZNF420 PE=1 SV=1,2.37E+04,2.52E+04,2.50E+04
+C9IZQ6,2 (1),7.62,---,1.34,,"HCG2022551_ isoform CRA_j OS=Homo sapiens GN=KALRN PE=1SV=1",5.38E+03,6.86E+03,5.14E+03
+Q96JK2,2 (1),7.6,---,1.2,,"DDB1- and CUL4-associated factor 5 OS=Homo sapiens GN=DCAF5PE=1 SV=2",6.45E+03,6.87E+03,5.71E+03
+Q86TB9,2 (2),7.54,---,1.05,,Protein PAT1 homolog 1 OS=Homo sapiens GN=PATL1 PE=1 SV=2,9.68E+04,1.02E+05,9.74E+04
+B3KMK0,1 (1),6.2,---,1.51,1,"cDNA FLJ11217 fis_ clone PLACE1008044_ highly similar toNUCLEAR PORE COMPLEX PROTEIN NUP107 OS=Homo sapiens PE=2SV=1",3.51E+04,4.32E+04,2.86E+04
+A0A0G2JR68,1 (1),5.49,---,1.06,,"MLX-interacting protein (Fragment) OS=Homo sapiens GN=MLXIPPE=1 SV=1",8.10E+04,7.94E+04,8.40E+04
+Q9H0B6,1 (1),5.47,---,5.53,,Kinesin light chain 2 OS=Homo sapiens GN=KLC2 PE=1 SV=1,3.99E+04,3.19E+04,7.22E+03
+H9ZYJ1,1 (1),5.45,---,1.13,,"Negative elongation factor E OS=Homo sapiens GN=NELF-E PE=2SV=1",7.91E+03,8.38E+03,8.96E+03
+A0A0C4DFT5,1 (1),5.33,---,1.21,,"Solute carrier family 26 member 6 OS=Homo sapiens GN=SLC26A6PE=1 SV=1",1.31E+04,1.32E+04,1.58E+04
+B4DF28,1 (1),5.32,---,1.25,1,cDNA FLJ59014 OS=Homo sapiens PE=2 SV=1,7.66E+03,8.95E+03,7.15E+03
+A0A024RCI0,1 (0),5.29,---,---,,"Tetraspanin 6_ isoform CRA_a OS=Homo sapiens GN=TSPAN6 PE=3SV=1",---,---,---
+P05113,1 (1),5.28,---,1.12,,Interleukin-5 OS=Homo sapiens GN=IL5 PE=1 SV=1,1.09E+04,1.22E+04,1.13E+04
+A0A0C4DH10,1 (1),5.23,---,1.07,,"Adhesion G-protein-coupled receptor F1 OS=Homo sapiensGN=ADGRF1 PE=1 SV=1",8.72E+03,8.14E+03,8.61E+03
+Q8IYS2,1 (1),5.22,---,1.28,,"Uncharacterized protein KIAA2013 OS=Homo sapiens GN=KIAA2013PE=1 SV=1",8.08E+04,1.03E+05,9.27E+04
+P17039,1 (0),5.17,---,---,,Zinc finger protein 30 OS=Homo sapiens GN=ZNF30 PE=2 SV=5,---,---,---
+L8EBA1,1 (1),5.15,---,1.06,,Alternative protein GPR98 OS=Homo sapiens GN=GPR98 PE=4 SV=1,3.25E+04,3.34E+04,3.44E+04
+A0A024R305,1 (1),5.13,---,1.53,,"Ubiquitin carboxyl-terminal hydrolase OS=Homo sapiens GN=BAP1PE=3 SV=1",8.89E+03,6.96E+03,5.82E+03
+A0A024QZR6,1 (0),5.04,---,---,1,"Dual specificity phosphatase 13_ isoform CRA_a OS=Homo sapiensGN=DUSP13 PE=3 SV=1",---,---,---
+C9J0I5,1 (1),5.02,---,1.32,,"Solute carrier family 12 member 9 (Fragment) OS=Homo sapiensGN=SLC12A9 PE=1 SV=1",1.88E+05,1.42E+05,1.70E+05
+A4D1L4,1 (0),4.96,---,---,,"Nuclear interacting partner of anaplastic lymphoma kinase (ALK)OS=Homo sapiens GN=NIPA PE=4 SV=1",---,---,---
+A0A024R230,1 (1),4.92,---,1.59,1,"Tyrosine-protein kinase receptor OS=Homo sapiens GN=NTRK2PE=3 SV=1",1.80E+04,2.87E+04,2.57E+04
+B4DEW2,1 (1),4.92,---,1.05,,"Mitogen-activated protein kinase 4 OS=Homo sapiens GN=MAPK4PE=1 SV=1",4.63E+04,4.71E+04,4.48E+04
+M0QXX4,1 (1),4.91,---,1.54,,Kaptin (Fragment) OS=Homo sapiens GN=KPTN PE=1 SV=1,3.79E+03,4.83E+03,3.13E+03
+A0A068BUX7,1 (0),4.91,---,---,1,ATP synthase subunit a OS=Homo sapiens GN=ATP6 PE=4 SV=1,---,---,---
+A0A087WU43,1 (1),4.9,---,1.18,,Cadherin-1 OS=Homo sapiens GN=CDH1 PE=1 SV=1,8.36E+03,7.27E+03,7.09E+03
+C9J7T7,1 (0),4.89,---,---,,"Nuclear receptor corepressor 2 OS=Homo sapiens GN=NCOR2 PE=1SV=3",---,---,---
+Q7L5L3,1 (1),4.88,---,1.13,,"Glycerophosphodiester phosphodiesterase domain-containingprotein 3 OS=Homo sapiens GN=GDPD3 PE=2 SV=3",2.39E+04,2.44E+04,2.69E+04
+Q07001,1 (1),4.88,---,1.41,,"Acetylcholine receptor subunit delta OS=Homo sapiens GN=CHRNDPE=1 SV=1",7.69E+03,5.93E+03,8.36E+03
+A0A0S2Z4Z3,1 (1),4.87,---,1.14,,"Fucose-1-phosphate guanylyltransferase isoform 3 (Fragment)OS=Homo sapiens GN=FPGT PE=2 SV=1",7.63E+03,6.83E+03,7.78E+03
+H6WHI2,1 (1),4.83,---,1.45,,ATP synthase subunit a OS=Homo sapiens GN=ATP6 PE=4 SV=1,1.81E+04,1.76E+04,1.25E+04
+A0A024R997,1 (1),4.82,---,1.14,,"ELK4_ ETS-domain protein (SRF accessory protein 1)_ isoformCRA_a OS=Homo sapiens GN=ELK4 PE=3 SV=1",1.55E+03,1.36E+03,1.45E+03
+A0A142I7X2,1 (0),4.79,---,---,,"NUP98/PHF23 fusion 2 protein (Fragment) OS=Homo sapiens PE=2SV=1",---,---,---
+A0A024RDY4,1 (0),4.78,---,---,,"Transcription factor Dp-1_ isoform CRA_a OS=Homo sapiensGN=TFDP1 PE=3 SV=1",---,---,---
+Q17RM4,1 (0),4.75,---,---,,"Coiled-coil domain-containing protein 142 OS=Homo sapiensGN=CCDC142 PE=2 SV=1",---,---,---
+A5D8T4,1 (1),4.73,---,1.38,,"TNFRSF8 protein (Fragment) OS=Homo sapiens GN=TNFRSF8 PE=2SV=1",1.71E+04,2.05E+04,2.36E+04
+P50443,1 (1),4.67,---,1.13,,Sulfate transporter OS=Homo sapiens GN=SLC26A2 PE=1 SV=2,2.97E+04,2.71E+04,3.06E+04
+A8K0L9,1 (0),4.67,---,---,,"cDNA FLJ76999_ highly similar to Homo sapiens cadherin-like 22(CDH22)_ mRNA OS=Homo sapiens PE=2 SV=1",---,---,---
+B3KSX4,1 (1),4.66,---,1.2,,"cDNA FLJ37231 fis_ clone BRAMY2001068_ highly similar to Largeneutral amino acids transporter small subunit 2 OS=Homo sapiensPE=2 SV=1",2.38E+04,1.99E+04,2.20E+04
+K7EMK7,1 (1),4.66,---,1.19,,"Transducin-like enhancer protein 2 OS=Homo sapiens GN=TLE2PE=1 SV=1",1.03E+04,1.14E+04,9.60E+03
+A0A024R0Q0,1 (1),4.63,---,1.13,,"Uncharacterized protein OS=Homo sapiens GN=FLJ12886 PE=4SV=1",7.36E+03,8.16E+03,8.32E+03
+A8KAE4,1 (0),4.62,---,---,,cDNA FLJ75520 OS=Homo sapiens PE=2 SV=1,---,---,---
+Q9UHB4,1 (1),4.61,---,1.16,,"NADPH-dependent diflavin oxidoreductase 1 OS=Homo sapiensGN=NDOR1 PE=1 SV=1",8.40E+05,7.56E+05,7.23E+05
+Q9Y2T7,1 (1),4.6,---,1.49,1,Y-box-binding protein 2 OS=Homo sapiens GN=YBX2 PE=1 SV=2,4.92E+03,5.88E+03,3.93E+03
+P11926,1 (1),4.59,---,1.22,,Ornithine decarboxylase OS=Homo sapiens GN=ODC1 PE=1 SV=2,4.50E+04,5.47E+04,4.60E+04
+A0A0G2JIW1,1 (1),4.57,---,1.1,,"Heat shock 70 kDa protein 1B OS=Homo sapiens GN=HSPA1B PE=1SV=1",1.07E+04,1.16E+04,1.18E+04
+A0A0S2Z4W1,1 (1),4.55,---,1.66,,"Serine/arginine repetitive matrix 1 isoform 1 (Fragment) OS=Homosapiens GN=SRRM1 PE=2 SV=1",1.39E+04,2.30E+04,1.96E+04
+Q7L1V2,1 (1),4.55,---,1.21,,"Vacuolar fusion protein MON1 homolog B OS=Homo sapiensGN=MON1B PE=1 SV=1",1.75E+05,2.03E+05,2.13E+05
+C9JPG5,1 (1),4.55,---,1.18,,Semaphorin-3F OS=Homo sapiens GN=SEMA3F PE=1 SV=1,7.59E+04,6.43E+04,7.45E+04
+Q9H7M6,1 (1),4.53,---,1.45,,"Zinc finger SWIM domain-containing protein 4 OS=Homo sapiensGN=ZSWIM4 PE=2 SV=3",3.07E+04,3.68E+04,2.53E+04
+Q8NH62,2 (2),4.51,---,1.12,,Olfactory receptor OS=Homo sapiens PE=3 SV=1,1.98E+04,1.94E+04,2.17E+04
+A0A024RBK9,1 (1),4.49,---,1.28,,Thioredoxin reductase 1 OS=Homo sapiens GN=TXNRD1 PE=3 SV=1,7.59E+03,8.02E+03,6.27E+03
+A0A024R244,1 (0),4.47,---,---,,Tyrosine-protein kinase OS=Homo sapiens GN=SYK PE=3 SV=1,---,---,---
+A0A024RDN9,1 (1),4.44,---,1.09,,"Uncharacterized protein OS=Homo sapiens GN=LOC283537 PE=4SV=1",1.05E+04,1.06E+04,1.14E+04
+A0A024R632,1 (1),4.43,---,1.33,,Kinesin-like protein OS=Homo sapiens GN=KIF22 PE=3 SV=1,4.02E+04,5.35E+04,5.14E+04
+P04003,1 (0),4.42,---,---,,"C4b-binding protein alpha chain OS=Homo sapiens GN=C4BPA PE=1SV=2",---,---,---
+Q14114,1 (0),4.41,---,---,,"Low-density lipoprotein receptor-related protein 8 OS=Homosapiens GN=LRP8 PE=1 SV=4",---,---,---
+Q9NYZ4,2 (2),4.4,---,1.1,,"Sialic acid-binding Ig-like lectin 8 OS=Homo sapiens GN=SIGLEC8PE=1 SV=2",2.29E+05,2.09E+05,2.23E+05
+D6W5Y8,1 (1),4.39,---,1.3,,"Melanoma associated antigen (Mutated) 1_ isoform CRA_aOS=Homo sapiens GN=MUM1 PE=4 SV=1",6.97E+03,5.79E+03,5.38E+03
+Q96RP8,1 (1),4.37,---,1.04,,"Potassium voltage-gated channel subfamily A member 7 OS=Homosapiens GN=KCNA7 PE=2 SV=1",1.07E+04,1.12E+04,1.12E+04
+B4DL02,1 (1),4.35,---,1.28,,"cDNA FLJ56101_ highly similar to SHC-transforming protein 1OS=Homo sapiens PE=2 SV=1",6.46E+04,5.91E+04,7.54E+04
+Q8N4B5,1 (1),4.34,---,1.33,1,Proline-rich protein 18 OS=Homo sapiens GN=PRR18 PE=2 SV=2,2.83E+04,3.75E+04,3.04E+04
+P34820,1 (0),4.34,---,---,,"Bone morphogenetic protein 8B OS=Homo sapiens GN=BMP8B PE=2SV=2",---,---,---
+A7E240,1 (1),4.34,---,1.15,,"SLC8A3 protein (Fragment) OS=Homo sapiens GN=SLC8A3 PE=2SV=1",4.54E+04,3.95E+04,4.48E+04
+H0YKG6,1 (0),4.33,---,---,,"UPF0583 protein C15orf59 (Fragment) OS=Homo sapiensGN=C15orf59 PE=4 SV=1",---,---,---
+A1A5C7,1 (1),4.32,---,1.64,,"Solute carrier family 22 member 23 OS=Homo sapiensGN=SLC22A23 PE=1 SV=2",5.27E+03,5.35E+03,3.25E+03
+H3BNV0,1 (1),4.32,---,1.13,,"Leucine-rich repeat-containing protein 36 OS=Homo sapiensGN=LRRC36 PE=4 SV=1",2.47E+04,2.80E+04,2.76E+04
+A6NJB7,1 (1),4.28,---,1.17,,Proline-rich protein 19 OS=Homo sapiens GN=PRR19 PE=1 SV=1,5.22E+04,5.16E+04,6.03E+04
+B3KRT0,1 (0),4.28,---,---,,"cDNA FLJ34857 fis_ clone NT2NE2012533_ highly similar toCadherin-12 OS=Homo sapiens PE=2 SV=1",---,---,---
+Q02641,1 (1),4.25,---,1.39,,"Voltage-dependent L-type calcium channel subunit beta-1OS=Homo sapiens GN=CACNB1 PE=2 SV=3",1.14E+04,1.58E+04,1.54E+04
+P19021,1 (1),4.25,---,1.06,,"Peptidyl-glycine alpha-amidating monooxygenase OS=Homosapiens GN=PAM PE=1 SV=2",1.17E+04,1.13E+04,1.11E+04
+Q8TBM8,1 (1),4.24,---,1.3,,"DnaJ homolog subfamily B member 14 OS=Homo sapiensGN=DNAJB14 PE=1 SV=1",6.19E+03,6.41E+03,4.93E+03
+A8MWY0,1 (1),4.24,---,1.08,,"UPF0577 protein KIAA1324-like OS=Homo sapiens GN=KIAA1324LPE=1 SV=2",3.25E+04,3.29E+04,3.05E+04
+Q9Y2I6,1 (1),4.21,---,2.58,,Ninein-like protein OS=Homo sapiens GN=NINL PE=1 SV=2,3.69E+04,2.90E+04,7.47E+04
+B2R7C2,1 (0),4.2,---,---,,"cDNA_ FLJ93375_ highly similar to Homo sapiens ZW10_kinetochore associated_ homolog (Drosophila) (ZW10)_ mRNAOS=Homo sapiens PE=2 SV=1",---,---,---
+A0A087WSW7,1 (1),4.2,---,1.83,,"Helicase_ lymphoid-specific_ isoform CRA_d OS=Homo sapiensGN=HELLS PE=1 SV=1",1.19E+05,9.60E+04,6.49E+04
+B3KQ68,1 (0),4.2,---,---,,"cDNA FLJ32970 fis_ clone TESTI2008840_ highly similar to Proteintransport protein Sec61 subunit alpha isoform 2 OS=Homo sapiensPE=2 SV=1",---,---,---
+M0QXB4,1 (0),4.17,---,---,,"Coatomer protein complex_ subunit epsilon_ isoform CRA_gOS=Homo sapiens GN=COPE PE=1 SV=1",---,---,---
+A8MWA4,1 (1),4.14,---,1.16,,"Putative zinc finger protein 705E OS=Homo sapiens GN=ZNF705EPE=3 SV=1",1.58E+04,1.39E+04,1.36E+04
+Q8TAD4,1 (1),4.13,---,1.35,,Zinc transporter 5 OS=Homo sapiens GN=SLC30A5 PE=1 SV=1,4.39E+03,4.36E+03,5.87E+03
+O94885,1 (1),4.12,---,1.15,1,"SAM and SH3 domain-containing protein 1 OS=Homo sapiensGN=SASH1 PE=1 SV=3",2.08E+03,2.35E+03,2.39E+03
+A4D0P7,1 (0),4.04,---,---,,"Origin recognition complex_ subunit 5-like (Yeast) OS=Homosapiens GN=ORC5L PE=1 SV=1",---,---,---
+Q96EI5,1 (1),4.04,---,1.15,,"Transcription elongation factor A protein-like 4 OS=Homo sapiensGN=TCEAL4 PE=1 SV=2",9.55E+04,1.03E+05,1.09E+05
+,,,,,,,,,
+Q13643,1 (0),4.03,---,---,,"Four and a half LIM domains protein 3 OS=Homo sapiens GN=FHL3PE=1 SV=4",---,---,---
+B4E153,1 (1),4,---,1.31,,"cDNA FLJ61525_ highly similar to Thyroglobulin OS=Homo sapiensPE=2 SV=1",3.23E+03,3.90E+03,2.98E+03
+Q96BD5,1 (1),3.99,---,1.23,,PHD finger protein 21A OS=Homo sapiens GN=PHF21A PE=1 SV=1,9.96E+03,9.09E+03,8.08E+03
+A0A0A0MRU5,1 (1),3.99,---,1.33,,"Ceroid-lipofuscinosis neuronal protein 5 OS=Homo sapiensGN=CLN5 PE=1 SV=1",7.58E+03,5.70E+03,6.55E+03
+D6RF86,1 (1),3.98,---,1.19,,Cadherin-6 OS=Homo sapiens GN=CDH6 PE=1 SV=1,1.14E+04,1.02E+04,1.21E+04
+Q9Y2X7,2 (2),3.97,---,1.45,,"ARF GTPase-activating protein GIT1 OS=Homo sapiens GN=GIT1PE=1 SV=2",4.03E+03,3.24E+03,4.71E+03
+Q5TCH6,1 (0),3.96,---,---,,"Meiotic recombination protein SPO11 (Fragment) OS=Homo sapiensGN=SPO11 PE=4 SV=2",---,---,---
+B2R708,1 (1),3.95,---,1.14,,"cDNA_ FLJ93213_ highly similar to Homo sapiens protocadherinbeta 15 (PCDHB15)_ mRNA OS=Homo sapiens PE=2 SV=1",2.14E+03,2.01E+03,1.87E+03
+B2RDF2,1 (0),3.95,---,---,,Pescadillo homolog OS=Homo sapiens GN=PES1 PE=2 SV=1,---,---,---
+B7Z3X3,1 (1),3.86,---,1.14,,"cDNA FLJ56097_ highly similar to Homo sapiens dystrobrevin_alpha (DTNA)_ transcript variant 2_ mRNA OS=Homo sapiens PE=2SV=1",1.15E+04,1.01E+04,1.13E+04
+A0A024R0X1,1 (1),3.84,---,1.18,,"NEL-like 2 (Chicken)_ isoform CRA_b OS=Homo sapiens GN=NELL2PE=4 SV=1",1.07E+04,9.00E+03,1.03E+04
